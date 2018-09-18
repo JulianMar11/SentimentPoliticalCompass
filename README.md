@@ -38,12 +38,12 @@ Further instructions of the pipeline steps are provided in the subfolders for th
 | response_id  | Identifier | identifier of search result  | 
 | url  | URL  | article url |
 
-*Sentiment information*
+*Sentiment information* ([IBM NLU API](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/?python#post-analyze))
 
 | Column  | Type |  Explanation | 
 | ------------- | ------------- | ------------- | 
 | entity_text  | String  | Article text of entity  | 
-| entity_type  | Category  | Type of entity, ([doc](https://console.bluemix.net/docs/services/natural-language-understanding/entity-types-v2.html#entit-tstypen-und-untertypen-version-2-) )  | 
+| entity_type  | Category  | Type of entity, ([doc](https://console.bluemix.net/docs/services/natural-language-understanding/entity-types-v2.html#entit-tstypen-und-untertypen-version-2-))  | 
 | count  | Int  | Mentions in article  | 
 | relevance  | Float  | Relevance of entity in text  | 
 | sentiment  | Float  |  Sentiment of entity in range -1, 1  | 
