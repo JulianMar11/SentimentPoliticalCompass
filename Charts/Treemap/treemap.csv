@@ -1,0 +1,1680 @@
+party;newspaper;politician;count;mean;score
+AfD;www.afdkompakt.de;AfD;3944;-0.073;-72
+AfD;www.afdkompakt.de;Albrecht Glaser;31;-0.0431;-43
+AfD;www.afdkompakt.de;Alexander Gauland;1443;-0.689;-688
+AfD;www.afdkompakt.de;Alice Weidel;1402;-0.0491;-49
+AfD;www.afdkompakt.de;Beatrix von Storch;51;-0.2075;-207
+AfD;www.afdkompakt.de;Bernd Baumann;32;-0.342;-341
+AfD;www.afdkompakt.de;Georg Pazderski;205;-0.4265;-426
+AfD;www.afdkompakt.de;Jörg Meuthen;159;-0.1786;-178
+AfD;www.afdkompakt.de;Leif-Erik Holm;34;-0.1429;-142
+AfD;www.bayernkurier.de;AfD;152;-0.1417;-141
+AfD;www.bild.de;AfD;1844;-0.1021;-102
+AfD;www.bild.de;Alexander Gauland;426;-0.1218;-121
+AfD;www.bild.de;Alice Weidel;251;-0.1087;-108
+AfD;www.bild.de;Beatrix von Storch;82;-0.1208;-120
+AfD;www.bild.de;Georg Pazderski;84;-0.0882;-88
+AfD;www.bild.de;Jens Maier;40;-0.1692;-169
+AfD;www.bild.de;Jörg Meuthen;173;-0.1518;-151
+AfD;www.der-postillon.com;AfD;38;-0.2638;-263
+AfD;www.faz.net;AfD;4548;-0.0482;-48
+AfD;www.faz.net;Albrecht Glaser;40;-0.1218;-121
+AfD;www.faz.net;Alexander Gauland;432;-0.0807;-80
+AfD;www.faz.net;Alice Weidel;189;-0.1328;-132
+AfD;www.faz.net;Beatrix von Storch;62;-0.1849;-184
+AfD;www.faz.net;Georg Pazderski;50;-0.1635;-163
+AfD;www.faz.net;Jens Maier;36;-0.0711;-71
+AfD;www.faz.net;Jörg Meuthen;197;-0.1593;-159
+AfD;www.focus.de;AfD;6473;-0.2018;-201
+AfD;www.focus.de;Albrecht Glaser;54;-0.1467;-146
+AfD;www.focus.de;Alexander Gauland;965;-0.1999;-199
+AfD;www.focus.de;Alice Weidel;636;-0.2045;-204
+AfD;www.focus.de;Beatrix von Storch;117;-0.2472;-247
+AfD;www.focus.de;Georg Pazderski;115;-0.1232;-123
+AfD;www.focus.de;Jens Maier;37;-0.3147;-314
+AfD;www.focus.de;Jörg Meuthen;475;-0.1925;-192
+AfD;www.focus.de;Kay Gottschalk;54;-0.1723;-172
+AfD;www.fr.de;AfD;2106;-0.1307;-130
+AfD;www.fr.de;Albrecht Glaser;45;-0.1432;-143
+AfD;www.fr.de;Alexander Gauland;714;-0.1311;-131
+AfD;www.fr.de;Alice Weidel;195;-0.1663;-166
+AfD;www.fr.de;Beatrix von Storch;77;-0.2445;-244
+AfD;www.fr.de;Georg Pazderski;46;-0.1507;-150
+AfD;www.fr.de;Jörg Meuthen;84;-0.1061;-106
+AfD;www.gruene.de;AfD;33;-0.2853;-285
+AfD;www.handelsblatt.de;AfD;868;-0.1362;-136
+AfD;www.handelsblatt.de;Alexander Gauland;153;-0.1538;-153
+AfD;www.handelsblatt.de;Alice Weidel;75;-0.2038;-203
+AfD;www.handelsblatt.de;Beatrix von Storch;38;-0.2223;-222
+AfD;www.handelsblatt.de;Jörg Meuthen;60;-0.1364;-136
+AfD;www.huffingtonpost.de;AfD;2928;-0.1102;-110
+AfD;www.huffingtonpost.de;Alexander Gauland;1348;-0.0902;-90
+AfD;www.huffingtonpost.de;Alice Weidel;257;-0.1525;-152
+AfD;www.huffingtonpost.de;Beatrix von Storch;79;-0.2527;-252
+AfD;www.huffingtonpost.de;Georg Pazderski;34;-0.0707;-70
+AfD;www.huffingtonpost.de;Jörg Meuthen;138;-0.1591;-159
+AfD;www.jungefreiheit.de;AfD;882;-0.2308;-230
+AfD;www.jungefreiheit.de;Alexander Gauland;157;-0.2371;-237
+AfD;www.jungefreiheit.de;Alice Weidel;126;-0.2315;-231
+AfD;www.jungefreiheit.de;Beatrix von Storch;46;-0.3219;-321
+AfD;www.jungefreiheit.de;Georg Pazderski;44;-0.2721;-272
+AfD;www.jungefreiheit.de;Jörg Meuthen;79;-0.0792;-79
+AfD;www.jungewelt.de;AfD;501;-0.1809;-180
+AfD;www.jungewelt.de;Alexander Gauland;52;-0.1196;-119
+AfD;www.n-tv.de;AfD;2793;-0.3233;-323
+AfD;www.n-tv.de;Albrecht Glaser;33;-0.1317;-131
+AfD;www.n-tv.de;Alexander Gauland;429;-0.1775;-177
+AfD;www.n-tv.de;Alice Weidel;225;-0.2161;-216
+AfD;www.n-tv.de;Beatrix von Storch;66;-0.25;-249
+AfD;www.n-tv.de;Georg Pazderski;52;-0.0733;-73
+AfD;www.n-tv.de;Jörg Meuthen;176;-0.1702;-170
+AfD;www.neues-deutschland.de;AfD;1736;-0.1294;-129
+AfD;www.neues-deutschland.de;Alexander Gauland;235;-0.2064;-206
+AfD;www.neues-deutschland.de;Alice Weidel;63;-0.1059;-105
+AfD;www.neues-deutschland.de;Beatrix von Storch;42;-0.3401;-340
+AfD;www.neues-deutschland.de;Georg Pazderski;32;-0.1742;-174
+AfD;www.neues-deutschland.de;Jörg Meuthen;62;-0.1624;-162
+AfD;www.spiegel.de;AfD;3627;-0.1994;-199
+AfD;www.spiegel.de;Albrecht Glaser;73;-0.2901;-290
+AfD;www.spiegel.de;Alexander Gauland;661;-0.2151;-215
+AfD;www.spiegel.de;Alice Weidel;370;-0.1763;-176
+AfD;www.spiegel.de;Beatrix von Storch;84;-0.3006;-300
+AfD;www.spiegel.de;Georg Pazderski;52;-0.0676;-67
+AfD;www.spiegel.de;Jens Maier;32;-0.3303;-330
+AfD;www.spiegel.de;Jörg Meuthen;225;-0.1895;-189
+AfD;www.stern.de;AfD;905;-0.1733;-173
+AfD;www.stern.de;Alexander Gauland;214;-0.1759;-175
+AfD;www.stern.de;Alice Weidel;133;-0.1577;-157
+AfD;www.stern.de;Beatrix von Storch;45;-0.3333;-333
+AfD;www.stern.de;Jörg Meuthen;90;-0.3547;-354
+AfD;www.sueddeutsche.de;AfD;2297;-0.0924;-92
+AfD;www.sueddeutsche.de;Albrecht Glaser;37;-0.0956;-95
+AfD;www.sueddeutsche.de;Alexander Gauland;444;-0.1006;-100
+AfD;www.sueddeutsche.de;Alice Weidel;214;-0.1318;-131
+AfD;www.sueddeutsche.de;Beatrix von Storch;67;-0.1036;-103
+AfD;www.sueddeutsche.de;Georg Pazderski;66;-0.1257;-125
+AfD;www.sueddeutsche.de;Jörg Meuthen;238;-0.107;-106
+AfD;www.sueddeutsche.de;Petr Bystron;32;-0.0303;-30
+AfD;www.tagesschau.de;AfD;675;-0.1148;-114
+AfD;www.tagesschau.de;Alexander Gauland;163;-0.1179;-117
+AfD;www.tagesschau.de;Alice Weidel;108;-0.107;-106
+AfD;www.tagesschau.de;Jörg Meuthen;88;-0.0533;-53
+AfD;www.tagesspiegel.de;AfD;1866;-0.1646;-164
+AfD;www.tagesspiegel.de;Alexander Gauland;356;-0.1221;-122
+AfD;www.tagesspiegel.de;Alice Weidel;185;-0.1392;-139
+AfD;www.tagesspiegel.de;Beatrix von Storch;66;-0.1746;-174
+AfD;www.tagesspiegel.de;Georg Pazderski;104;-0.0781;-78
+AfD;www.tagesspiegel.de;Jens Maier;41;-0.1391;-139
+AfD;www.tagesspiegel.de;Jörg Meuthen;91;-0.1179;-117
+AfD;www.taz.de;AfD;2487;-0.1573;-157
+AfD;www.taz.de;Alexander Gauland;328;-0.1452;-145
+AfD;www.taz.de;Alice Weidel;176;-0.1376;-137
+AfD;www.taz.de;Beatrix von Storch;85;-0.1903;-190
+AfD;www.taz.de;Georg Pazderski;47;-0.1943;-194
+AfD;www.taz.de;Jörg Meuthen;95;-0.1273;-127
+AfD;www.unsere-zeit.de;AfD;171;-0.1499;-149
+AfD;www.vorwaerts.de;AfD;441;-0.1654;-165
+AfD;www.vorwaerts.de;Alexander Gauland;57;-0.2206;-220
+AfD;www.welt.de;AfD;4391;-0.1553;-155
+AfD;www.welt.de;Albrecht Glaser;87;-0.1578;-157
+AfD;www.welt.de;Alexander Gauland;997;-0.1529;-152
+AfD;www.welt.de;Alice Weidel;556;-0.1597;-159
+AfD;www.welt.de;Armin-Paul Hampel;70;-0.241;-240
+AfD;www.welt.de;Beatrix von Storch;159;-0.2522;-252
+AfD;www.welt.de;Georg Pazderski;183;-0.1351;-135
+AfD;www.welt.de;Jens Maier;54;-0.3529;-352
+AfD;www.welt.de;Jörg Meuthen;499;-0.1847;-184
+AfD;www.welt.de;Kay Gottschalk;45;-0.1442;-144
+AfD;www.welt.de;Leif-Erik Holm;42;-0.0833;-83
+AfD;www.welt.de;Petr Bystron;31;-0.1121;-112
+AfD;www.zeit.de;AfD;2736;-0.1179;-117
+AfD;www.zeit.de;Albrecht Glaser;52;-0.1065;-106
+AfD;www.zeit.de;Alexander Gauland;588;-0.1638;-163
+AfD;www.zeit.de;Alice Weidel;308;-0.1229;-122
+AfD;www.zeit.de;Beatrix von Storch;73;-0.225;-225
+AfD;www.zeit.de;Georg Pazderski;64;-0.1347;-134
+AfD;www.zeit.de;Jens Maier;44;-0.1395;-139
+AfD;www.zeit.de;Jörg Meuthen;254;-0.1416;-141
+CDU;www.afdkompakt.de;Angela Merkel;2796;-0.4191;-419
+CDU;www.afdkompakt.de;CDU;1660;-0.1023;-102
+CDU;www.afdkompakt.de;Daniel Günther;1159;0.0;0
+CDU;www.bayernkurier.de;Angela Merkel;338;-0.1392;-139
+CDU;www.bayernkurier.de;CDU;563;-0.1078;-107
+CDU;www.bayernkurier.de;Jens Spahn;37;-0.1301;-130
+CDU;www.bayernkurier.de;Junge Union;43;0.017;16
+CDU;www.bayernkurier.de;Thomas de Maizière;91;-0.2496;-249
+CDU;www.bayernkurier.de;Wolfgang Schäuble;53;-0.2563;-256
+CDU;www.bild.de;Angela Merkel;3316;-0.0958;-95
+CDU;www.bild.de;Annegret Kramp-Karrenbauer;220;-0.044;-44
+CDU;www.bild.de;Armin Laschet;341;-0.1129;-112
+CDU;www.bild.de;CDU;4181;-0.0839;-83
+CDU;www.bild.de;Daniel Günther;106;-0.0175;-17
+CDU;www.bild.de;Helmut Kohl;120;-0.0814;-81
+CDU;www.bild.de;Hermann Gröhe;85;-0.0818;-81
+CDU;www.bild.de;Jens Spahn;293;-0.1267;-126
+CDU;www.bild.de;Julia Klöckner;156;-0.0708;-70
+CDU;www.bild.de;Junge Union;82;-0.1209;-120
+CDU;www.bild.de;Michael Kretschmer;55;-0.0661;-66
+CDU;www.bild.de;Monika Grütters;32;-0.0193;-19
+CDU;www.bild.de;Norbert Lammert;31;-0.0402;-40
+CDU;www.bild.de;Ole Schröder;142;-0.0642;-64
+CDU;www.bild.de;Paul Ziemiak;61;-0.112;-111
+CDU;www.bild.de;Peter Altmaier;224;-0.1122;-112
+CDU;www.bild.de;Peter Tauber;142;-0.1448;-144
+CDU;www.bild.de;Reiner Haseloff;36;-0.0556;-55
+CDU;www.bild.de;Thomas Strobl;144;-0.1178;-117
+CDU;www.bild.de;Thomas de Maizière;469;-0.1786;-178
+CDU;www.bild.de;Ursula von der Leyen;363;-0.1807;-180
+CDU;www.bild.de;Volker Bouffier;101;-0.0088;-8
+CDU;www.bild.de;Volker Kauder;137;-0.119;-118
+CDU;www.bild.de;Wolfgang Bosbach;72;-0.1057;-105
+CDU;www.bild.de;Wolfgang Schäuble;434;-0.0739;-73
+CDU;www.der-postillon.com;Angela Merkel;101;-0.1016;-101
+CDU;www.der-postillon.com;CDU;52;-0.1028;-102
+CDU;www.faz.net;Angela Merkel;3788;-0.092;-91
+CDU;www.faz.net;Anja Karliczek;31;-0.0685;-68
+CDU;www.faz.net;Annegret Kramp-Karrenbauer;265;-0.1078;-107
+CDU;www.faz.net;Armin Laschet;293;-0.1472;-147
+CDU;www.faz.net;CDU;5739;-0.0877;-87
+CDU;www.faz.net;Carsten Linnemann;43;-0.1345;-134
+CDU;www.faz.net;Daniel Günther;330;-0.0477;-47
+CDU;www.faz.net;Helmut Kohl;200;-0.082;-81
+CDU;www.faz.net;Hermann Gröhe;146;-0.1645;-164
+CDU;www.faz.net;Jens Spahn;388;-0.0961;-96
+CDU;www.faz.net;Julia Klöckner;173;-0.1179;-117
+CDU;www.faz.net;Junge Union;139;-0.157;-156
+CDU;www.faz.net;Konrad Adenauer;51;-0.1243;-124
+CDU;www.faz.net;Ludwig Erhard;45;-0.0924;-92
+CDU;www.faz.net;Michael Grosse-Brömer;32;-0.1432;-143
+CDU;www.faz.net;Michael Kretschmer;34;-0.1605;-160
+CDU;www.faz.net;Norbert Lammert;55;-0.0227;-22
+CDU;www.faz.net;Norbert Röttgen;39;-0.1307;-130
+CDU;www.faz.net;Ole Schröder;164;-0.1098;-109
+CDU;www.faz.net;Paul Ziemiak;43;-0.129;-128
+CDU;www.faz.net;Peter Altmaier;256;-0.1252;-125
+CDU;www.faz.net;Peter Tauber;127;-0.1728;-172
+CDU;www.faz.net;Ronald Pofalla;35;-0.0906;-90
+CDU;www.faz.net;Thomas Strobl;78;-0.1358;-135
+CDU;www.faz.net;Thomas de Maizière;517;-0.1428;-142
+CDU;www.faz.net;Ursula von der Leyen;392;-0.1114;-111
+CDU;www.faz.net;Volker Bouffier;216;-0.1067;-106
+CDU;www.faz.net;Volker Kauder;224;-0.1106;-110
+CDU;www.faz.net;Wolfgang Bosbach;39;-0.1839;-183
+CDU;www.faz.net;Wolfgang Schäuble;678;-0.1053;-105
+CDU;www.focus.de;Angela Merkel;10057;-0.2096;-209
+CDU;www.focus.de;Anja Karliczek;49;-0.0564;-56
+CDU;www.focus.de;Annegret Kramp-Karrenbauer;630;-0.0868;-86
+CDU;www.focus.de;Annette Widmann-Mauz;36;-0.1393;-139
+CDU;www.focus.de;Armin Laschet;822;-0.1229;-122
+CDU;www.focus.de;Armin Schuster;33;-0.1423;-142
+CDU;www.focus.de;CDU;9403;-0.1184;-118
+CDU;www.focus.de;Carsten Linnemann;70;-0.1506;-150
+CDU;www.focus.de;Daniel Günther;441;-0.0181;-18
+CDU;www.focus.de;Helge Braun;42;-0.0471;-47
+CDU;www.focus.de;Helmut Kohl;286;-0.1375;-137
+CDU;www.focus.de;Hermann Gröhe;235;-0.1155;-115
+CDU;www.focus.de;Jens Spahn;1025;-0.1495;-149
+CDU;www.focus.de;Johanna Wanka;90;-0.0223;-22
+CDU;www.focus.de;Julia Klöckner;535;-0.085;-85
+CDU;www.focus.de;Junge Union;247;-0.1001;-100
+CDU;www.focus.de;Konrad Adenauer;34;-0.1264;-126
+CDU;www.focus.de;Michael Grosse-Brömer;59;-0.1115;-111
+CDU;www.focus.de;Michael Kretschmer;190;-0.0901;-90
+CDU;www.focus.de;Monika Grütters;36;-0.1634;-163
+CDU;www.focus.de;Norbert Lammert;65;-0.0512;-51
+CDU;www.focus.de;Norbert Röttgen;56;-0.1007;-100
+CDU;www.focus.de;Ole Schröder;390;-0.2267;-226
+CDU;www.focus.de;Paul Ziemiak;87;-0.1165;-116
+CDU;www.focus.de;Peter Altmaier;540;-0.1394;-139
+CDU;www.focus.de;Peter Tauber;242;-0.1675;-167
+CDU;www.focus.de;Reiner Haseloff;132;-0.0236;-23
+CDU;www.focus.de;Thomas Strobl;545;-0.1428;-142
+CDU;www.focus.de;Thomas de Maizière;771;-0.193;-193
+CDU;www.focus.de;Tobias Hans;56;-0.0181;-18
+CDU;www.focus.de;Ursula von der Leyen;606;-0.202;-201
+CDU;www.focus.de;Volker Bouffier;361;-0.0506;-50
+CDU;www.focus.de;Volker Kauder;333;-0.1954;-195
+CDU;www.focus.de;Wolfgang Bosbach;99;-0.2146;-214
+CDU;www.focus.de;Wolfgang Schäuble;851;-0.1695;-169
+CDU;www.fr.de;Angela Merkel;3000;-0.1219;-121
+CDU;www.fr.de;Annegret Kramp-Karrenbauer;157;-0.0654;-65
+CDU;www.fr.de;Armin Laschet;143;-0.0559;-55
+CDU;www.fr.de;CDU;4715;-0.1045;-104
+CDU;www.fr.de;Helmut Kohl;139;-0.0974;-97
+CDU;www.fr.de;Jens Spahn;346;-0.1363;-136
+CDU;www.fr.de;Johanna Wanka;45;-0.0789;-78
+CDU;www.fr.de;Junge Union;110;-0.1248;-124
+CDU;www.fr.de;Michael Kretschmer;63;-0.0958;-95
+CDU;www.fr.de;Norbert Lammert;49;-0.1492;-149
+CDU;www.fr.de;Paul Ziemiak;33;-0.0501;-50
+CDU;www.fr.de;Peter Altmaier;613;-0.2698;-269
+CDU;www.fr.de;Peter Tauber;99;-0.0929;-92
+CDU;www.fr.de;Stefan Sauer;109;-0.1749;-174
+CDU;www.fr.de;Thomas Strobl;35;-0.0896;-89
+CDU;www.fr.de;Ursula von der Leyen;252;-0.1525;-152
+CDU;www.fr.de;Volker Bouffier;417;-0.0888;-88
+CDU;www.fr.de;Volker Kauder;115;-0.1229;-122
+CDU;www.gruene.de;Angela Merkel;42;-0.1277;-127
+CDU;www.gruene.de;CDU;57;-0.1566;-156
+CDU;www.handelsblatt.de;Angela Merkel;1745;-0.1199;-119
+CDU;www.handelsblatt.de;Annegret Kramp-Karrenbauer;110;-0.0271;-27
+CDU;www.handelsblatt.de;Armin Laschet;147;-0.0581;-58
+CDU;www.handelsblatt.de;CDU;2031;-0.0888;-88
+CDU;www.handelsblatt.de;Daniel Günther;35;0.0175;17
+CDU;www.handelsblatt.de;Helmut Kohl;44;-0.1066;-106
+CDU;www.handelsblatt.de;Jens Spahn;99;-0.1029;-102
+CDU;www.handelsblatt.de;Julia Klöckner;32;0.0168;16
+CDU;www.handelsblatt.de;Junge Union;42;-0.0151;-15
+CDU;www.handelsblatt.de;Ole Schröder;36;-0.0834;-83
+CDU;www.handelsblatt.de;Peter Altmaier;115;-0.0424;-42
+CDU;www.handelsblatt.de;Peter Tauber;48;-0.0719;-71
+CDU;www.handelsblatt.de;Thomas de Maizière;170;-0.1844;-184
+CDU;www.handelsblatt.de;Ursula von der Leyen;177;-0.1832;-183
+CDU;www.handelsblatt.de;Volker Bouffier;34;-0.0421;-42
+CDU;www.handelsblatt.de;Volker Kauder;67;-0.1052;-105
+CDU;www.handelsblatt.de;Wolfgang Schäuble;352;-0.0961;-96
+CDU;www.huffingtonpost.de;Angela Merkel;3345;-0.12;-119
+CDU;www.huffingtonpost.de;Annegret Kramp-Karrenbauer;137;-0.0578;-57
+CDU;www.huffingtonpost.de;Armin Laschet;188;-0.0815;-81
+CDU;www.huffingtonpost.de;CDU;3093;-0.1081;-108
+CDU;www.huffingtonpost.de;Daniel Günther;48;-0.0433;-43
+CDU;www.huffingtonpost.de;Helmut Kohl;72;-0.1391;-139
+CDU;www.huffingtonpost.de;Hermann Gröhe;62;-0.0304;-30
+CDU;www.huffingtonpost.de;Jens Spahn;711;-0.0611;-61
+CDU;www.huffingtonpost.de;Julia Klöckner;144;-0.055;-55
+CDU;www.huffingtonpost.de;Junge Union;81;-0.0854;-85
+CDU;www.huffingtonpost.de;Ole Schröder;87;-0.1029;-102
+CDU;www.huffingtonpost.de;Paul Ziemiak;126;-0.0818;-81
+CDU;www.huffingtonpost.de;Peter Altmaier;141;-0.1151;-115
+CDU;www.huffingtonpost.de;Peter Tauber;140;-0.1023;-102
+CDU;www.huffingtonpost.de;Thomas Strobl;72;-0.1385;-138
+CDU;www.huffingtonpost.de;Thomas de Maizière;301;-0.1685;-168
+CDU;www.huffingtonpost.de;Ursula von der Leyen;166;-0.12;-120
+CDU;www.huffingtonpost.de;Volker Bouffier;46;-0.1622;-162
+CDU;www.huffingtonpost.de;Volker Kauder;116;-0.1049;-104
+CDU;www.huffingtonpost.de;Wolfgang Bosbach;37;-0.1842;-184
+CDU;www.huffingtonpost.de;Wolfgang Schäuble;286;-0.1175;-117
+CDU;www.jungefreiheit.de;Angela Merkel;604;-0.2624;-262
+CDU;www.jungefreiheit.de;CDU;768;-0.1768;-176
+CDU;www.jungefreiheit.de;Jens Spahn;45;-0.2293;-229
+CDU;www.jungefreiheit.de;Thomas de Maizière;101;-0.1933;-193
+CDU;www.jungefreiheit.de;Ursula von der Leyen;59;-0.2636;-263
+CDU;www.jungefreiheit.de;Wolfgang Schäuble;34;-0.209;-209
+CDU;www.jungewelt.de;Angela Merkel;325;-0.1625;-162
+CDU;www.jungewelt.de;Armin Laschet;33;-0.0465;-46
+CDU;www.jungewelt.de;CDU;816;-0.1117;-111
+CDU;www.jungewelt.de;Jens Spahn;43;-0.1953;-195
+CDU;www.jungewelt.de;Thomas de Maizière;83;-0.1737;-173
+CDU;www.jungewelt.de;Ursula von der Leyen;67;-0.1107;-110
+CDU;www.jungewelt.de;Wolfgang Schäuble;58;-0.123;-123
+CDU;www.n-tv.de;Angela Merkel;3559;-0.144;-144
+CDU;www.n-tv.de;Annegret Kramp-Karrenbauer;240;-0.1062;-106
+CDU;www.n-tv.de;Armin Laschet;244;-0.1328;-132
+CDU;www.n-tv.de;CDU;2660;-0.1297;-129
+CDU;www.n-tv.de;Carsten Linnemann;32;-0.1294;-129
+CDU;www.n-tv.de;Daniel Günther;72;-0.1612;-161
+CDU;www.n-tv.de;Helmut Kohl;115;-0.1107;-110
+CDU;www.n-tv.de;Hermann Gröhe;70;-0.1207;-120
+CDU;www.n-tv.de;Jens Spahn;326;-0.1115;-111
+CDU;www.n-tv.de;Julia Klöckner;165;-0.1692;-169
+CDU;www.n-tv.de;Junge Union;129;-0.1113;-111
+CDU;www.n-tv.de;Michael Grosse-Brömer;35;-0.0176;-17
+CDU;www.n-tv.de;Michael Kretschmer;37;-0.2209;-220
+CDU;www.n-tv.de;Norbert Röttgen;33;-0.3161;-316
+CDU;www.n-tv.de;Ole Schröder;101;-0.0958;-95
+CDU;www.n-tv.de;Paul Ziemiak;62;-0.1439;-143
+CDU;www.n-tv.de;Peter Altmaier;193;-0.1108;-110
+CDU;www.n-tv.de;Peter Tauber;126;-0.1024;-102
+CDU;www.n-tv.de;Thomas Strobl;64;-0.1675;-167
+CDU;www.n-tv.de;Thomas de Maizière;464;-0.2332;-233
+CDU;www.n-tv.de;Ursula von der Leyen;319;-0.1697;-169
+CDU;www.n-tv.de;Volker Bouffier;51;-0.0519;-51
+CDU;www.n-tv.de;Volker Kauder;174;-0.1084;-108
+CDU;www.n-tv.de;Wolfgang Bosbach;40;-0.2727;-272
+CDU;www.n-tv.de;Wolfgang Schäuble;384;-0.0812;-81
+CDU;www.national-zeitung.de;Angela Merkel;60;-0.1518;-151
+CDU;www.neues-deutschland.de;Angela Merkel;1531;-0.1455;-145
+CDU;www.neues-deutschland.de;Annegret Kramp-Karrenbauer;117;-0.03;-29
+CDU;www.neues-deutschland.de;Armin Laschet;119;-0.0943;-94
+CDU;www.neues-deutschland.de;CDU;4068;-0.0927;-92
+CDU;www.neues-deutschland.de;Daniel Günther;39;0.0122;12
+CDU;www.neues-deutschland.de;Helmut Kohl;233;-0.0976;-97
+CDU;www.neues-deutschland.de;Hermann Gröhe;46;-0.1932;-193
+CDU;www.neues-deutschland.de;Jens Spahn;159;-0.1483;-148
+CDU;www.neues-deutschland.de;Johanna Wanka;54;-0.0292;-29
+CDU;www.neues-deutschland.de;Julia Klöckner;66;-0.1114;-111
+CDU;www.neues-deutschland.de;Junge Union;102;-0.1393;-139
+CDU;www.neues-deutschland.de;Konrad Adenauer;55;-0.0886;-88
+CDU;www.neues-deutschland.de;Michael Kretschmer;56;-0.2049;-204
+CDU;www.neues-deutschland.de;Norbert Lammert;34;-0.1609;-160
+CDU;www.neues-deutschland.de;Ole Schröder;191;-0.1197;-119
+CDU;www.neues-deutschland.de;Peter Altmaier;105;-0.1347;-134
+CDU;www.neues-deutschland.de;Peter Tauber;53;-0.0633;-63
+CDU;www.neues-deutschland.de;Reiner Haseloff;60;-0.0588;-58
+CDU;www.neues-deutschland.de;Thomas Strobl;33;-0.2883;-288
+CDU;www.neues-deutschland.de;Thomas de Maizière;344;-0.1871;-187
+CDU;www.neues-deutschland.de;Ursula von der Leyen;236;-0.1324;-132
+CDU;www.neues-deutschland.de;Volker Bouffier;70;-0.0866;-86
+CDU;www.neues-deutschland.de;Volker Kauder;83;-0.1135;-113
+CDU;www.neues-deutschland.de;Wolfgang Schäuble;366;-0.1212;-121
+CDU;www.spiegel.de;Angela Merkel;6438;-0.173;-173
+CDU;www.spiegel.de;Anja Karliczek;35;-0.0607;-60
+CDU;www.spiegel.de;Annegret Kramp-Karrenbauer;264;-0.1093;-109
+CDU;www.spiegel.de;Armin Laschet;343;-0.1348;-134
+CDU;www.spiegel.de;CDU;4612;-0.1504;-150
+CDU;www.spiegel.de;Carsten Linnemann;43;-0.0858;-85
+CDU;www.spiegel.de;Daniel Günther;102;-0.1002;-100
+CDU;www.spiegel.de;Helmut Kohl;234;-0.1217;-121
+CDU;www.spiegel.de;Hermann Gröhe;106;-0.1774;-177
+CDU;www.spiegel.de;Jens Spahn;862;-0.1755;-175
+CDU;www.spiegel.de;Johanna Wanka;45;-0.0797;-79
+CDU;www.spiegel.de;Julia Klöckner;220;-0.0969;-96
+CDU;www.spiegel.de;Junge Union;104;-0.1821;-182
+CDU;www.spiegel.de;Konrad Adenauer;40;-0.1357;-135
+CDU;www.spiegel.de;Michael Kretschmer;46;-0.1542;-154
+CDU;www.spiegel.de;Norbert Lammert;34;-0.088;-88
+CDU;www.spiegel.de;Norbert Röttgen;37;-0.2229;-222
+CDU;www.spiegel.de;Ole Schröder;429;-0.1699;-169
+CDU;www.spiegel.de;Paul Ziemiak;58;-0.1579;-157
+CDU;www.spiegel.de;Peter Altmaier;341;-0.1582;-158
+CDU;www.spiegel.de;Peter Tauber;139;-0.1505;-150
+CDU;www.spiegel.de;Thomas Strobl;47;-0.1388;-138
+CDU;www.spiegel.de;Thomas de Maizière;524;-0.2525;-252
+CDU;www.spiegel.de;Ursula von der Leyen;487;-0.2091;-209
+CDU;www.spiegel.de;Volker Bouffier;73;-0.1591;-159
+CDU;www.spiegel.de;Volker Kauder;219;-0.1687;-168
+CDU;www.spiegel.de;Wolfgang Bosbach;37;-0.1258;-125
+CDU;www.spiegel.de;Wolfgang Schäuble;723;-0.157;-157
+CDU;www.stern.de;Angela Merkel;1256;-0.1299;-129
+CDU;www.stern.de;Annegret Kramp-Karrenbauer;70;-0.1001;-100
+CDU;www.stern.de;Armin Laschet;63;-0.0751;-75
+CDU;www.stern.de;CDU;1172;-0.0891;-89
+CDU;www.stern.de;Helmut Kohl;59;-0.0914;-91
+CDU;www.stern.de;Jens Spahn;135;-0.1663;-166
+CDU;www.stern.de;Julia Klöckner;43;-0.0621;-62
+CDU;www.stern.de;Ole Schröder;40;-0.4366;-436
+CDU;www.stern.de;Peter Altmaier;93;-0.1328;-132
+CDU;www.stern.de;Peter Tauber;48;-0.0414;-41
+CDU;www.stern.de;Thomas de Maizière;112;-0.1566;-156
+CDU;www.stern.de;Ursula von der Leyen;93;-0.1306;-130
+CDU;www.stern.de;Volker Kauder;51;-0.2023;-202
+CDU;www.stern.de;Wolfgang Schäuble;124;-0.132;-131
+CDU;www.sueddeutsche.de;Angela Merkel;3606;-0.0788;-78
+CDU;www.sueddeutsche.de;Anja Karliczek;43;-0.0301;-30
+CDU;www.sueddeutsche.de;Annegret Kramp-Karrenbauer;355;-0.0382;-38
+CDU;www.sueddeutsche.de;Armin Laschet;507;-0.0614;-61
+CDU;www.sueddeutsche.de;CDU;4966;-0.0602;-60
+CDU;www.sueddeutsche.de;Daniel Günther;251;-0.0329;-32
+CDU;www.sueddeutsche.de;Helmut Kohl;121;-0.0879;-87
+CDU;www.sueddeutsche.de;Hermann Gröhe;128;-0.0413;-41
+CDU;www.sueddeutsche.de;Jens Spahn;367;-0.08;-80
+CDU;www.sueddeutsche.de;Johanna Wanka;57;-0.0143;-14
+CDU;www.sueddeutsche.de;Julia Klöckner;248;-0.0698;-69
+CDU;www.sueddeutsche.de;Junge Union;151;-0.0275;-27
+CDU;www.sueddeutsche.de;Michael Grosse-Brömer;31;-0.0946;-94
+CDU;www.sueddeutsche.de;Michael Kretschmer;106;-0.0922;-92
+CDU;www.sueddeutsche.de;Norbert Lammert;44;-0.0361;-36
+CDU;www.sueddeutsche.de;Norbert Röttgen;32;-0.0688;-68
+CDU;www.sueddeutsche.de;Ole Schröder;93;-0.0889;-88
+CDU;www.sueddeutsche.de;Paul Ziemiak;38;-0.0503;-50
+CDU;www.sueddeutsche.de;Peter Altmaier;286;-0.059;-58
+CDU;www.sueddeutsche.de;Peter Tauber;133;-0.0896;-89
+CDU;www.sueddeutsche.de;Reiner Haseloff;85;-0.0425;-42
+CDU;www.sueddeutsche.de;Thomas Strobl;452;-0.104;-103
+CDU;www.sueddeutsche.de;Thomas de Maizière;479;-0.1542;-154
+CDU;www.sueddeutsche.de;Tobias Hans;56;-0.0868;-86
+CDU;www.sueddeutsche.de;Ursula von der Leyen;348;-0.0703;-70
+CDU;www.sueddeutsche.de;Volker Bouffier;246;-0.0478;-47
+CDU;www.sueddeutsche.de;Volker Kauder;137;-0.1067;-106
+CDU;www.sueddeutsche.de;Wolfgang Schäuble;354;-0.0599;-59
+CDU;www.tagesschau.de;Angela Merkel;1371;-0.0952;-95
+CDU;www.tagesschau.de;Annegret Kramp-Karrenbauer;118;-0.0244;-24
+CDU;www.tagesschau.de;Armin Laschet;60;-0.0607;-60
+CDU;www.tagesschau.de;CDU;1048;-0.0791;-79
+CDU;www.tagesschau.de;Helge Braun;109;0.0079;7
+CDU;www.tagesschau.de;Hermann Gröhe;49;-0.0749;-74
+CDU;www.tagesschau.de;Jens Spahn;179;-0.0667;-66
+CDU;www.tagesschau.de;Julia Klöckner;94;-0.059;-58
+CDU;www.tagesschau.de;Junge Union;51;-0.0614;-61
+CDU;www.tagesschau.de;Peter Altmaier;180;-0.0399;-39
+CDU;www.tagesschau.de;Peter Tauber;31;-0.0886;-88
+CDU;www.tagesschau.de;Thomas de Maizière;114;-0.2341;-234
+CDU;www.tagesschau.de;Ursula von der Leyen;144;-0.0221;-22
+CDU;www.tagesschau.de;Volker Kauder;101;-0.0631;-63
+CDU;www.tagesschau.de;Wolfgang Schäuble;82;-0.0753;-75
+CDU;www.tagesspiegel.de;Angela Merkel;3119;-0.1405;-140
+CDU;www.tagesspiegel.de;Annegret Kramp-Karrenbauer;156;-0.0341;-34
+CDU;www.tagesspiegel.de;Armin Laschet;176;-0.058;-58
+CDU;www.tagesspiegel.de;CDU;3464;-0.0834;-83
+CDU;www.tagesspiegel.de;Daniel Günther;57;-0.0248;-24
+CDU;www.tagesspiegel.de;Helmut Kohl;152;-0.0379;-37
+CDU;www.tagesspiegel.de;Hermann Gröhe;101;-0.078;-77
+CDU;www.tagesspiegel.de;Jens Spahn;302;-0.0731;-73
+CDU;www.tagesspiegel.de;Johanna Wanka;54;0.0444;44
+CDU;www.tagesspiegel.de;Julia Klöckner;106;-0.1256;-125
+CDU;www.tagesspiegel.de;Junge Union;77;-0.0782;-78
+CDU;www.tagesspiegel.de;Kai Wegner;51;-0.0415;-41
+CDU;www.tagesspiegel.de;Michael Grosse-Brömer;35;-0.0203;-20
+CDU;www.tagesspiegel.de;Michael Kretschmer;54;-0.0659;-65
+CDU;www.tagesspiegel.de;Monika Grütters;189;-0.0209;-20
+CDU;www.tagesspiegel.de;Norbert Lammert;46;-0.0759;-75
+CDU;www.tagesspiegel.de;Norbert Röttgen;33;-0.2101;-210
+CDU;www.tagesspiegel.de;Ole Schröder;111;-0.0792;-79
+CDU;www.tagesspiegel.de;Paul Ziemiak;31;-0.0771;-77
+CDU;www.tagesspiegel.de;Peter Altmaier;239;-0.0998;-99
+CDU;www.tagesspiegel.de;Peter Tauber;97;-0.1087;-108
+CDU;www.tagesspiegel.de;Thomas Strobl;46;-0.1659;-165
+CDU;www.tagesspiegel.de;Thomas de Maizière;488;-0.1794;-179
+CDU;www.tagesspiegel.de;Ursula von der Leyen;220;-0.1386;-138
+CDU;www.tagesspiegel.de;Volker Bouffier;46;-0.0537;-53
+CDU;www.tagesspiegel.de;Volker Kauder;158;-0.1244;-124
+CDU;www.tagesspiegel.de;Wolfgang Schäuble;444;-0.0755;-75
+CDU;www.taz.de;Angela Merkel;3030;-0.1678;-167
+CDU;www.taz.de;Annegret Kramp-Karrenbauer;121;-0.0384;-38
+CDU;www.taz.de;Armin Laschet;113;-0.0941;-94
+CDU;www.taz.de;CDU;3781;-0.1111;-111
+CDU;www.taz.de;Daniel Günther;79;-0.058;-58
+CDU;www.taz.de;Helmut Kohl;138;-0.1073;-107
+CDU;www.taz.de;Hermann Gröhe;80;-0.0355;-35
+CDU;www.taz.de;Jens Spahn;303;-0.1323;-132
+CDU;www.taz.de;Johanna Wanka;40;-0.0309;-30
+CDU;www.taz.de;Julia Klöckner;73;-0.1311;-131
+CDU;www.taz.de;Junge Union;122;-0.0969;-96
+CDU;www.taz.de;Kristina Schröder;59;-0.0629;-62
+CDU;www.taz.de;Michael Kretschmer;48;-0.0868;-86
+CDU;www.taz.de;Monika Grütters;49;-0.1139;-113
+CDU;www.taz.de;Norbert Lammert;31;-0.0472;-47
+CDU;www.taz.de;Norbert Röttgen;35;-0.1291;-129
+CDU;www.taz.de;Ole Schröder;355;-0.1568;-156
+CDU;www.taz.de;Peter Altmaier;176;-0.1173;-117
+CDU;www.taz.de;Peter Tauber;69;-0.098;-98
+CDU;www.taz.de;Thomas Strobl;53;-0.1948;-194
+CDU;www.taz.de;Thomas de Maizière;503;-0.1952;-195
+CDU;www.taz.de;Ursula von der Leyen;318;-0.1673;-167
+CDU;www.taz.de;Volker Bouffier;66;-0.0739;-73
+CDU;www.taz.de;Volker Kauder;125;-0.1636;-163
+CDU;www.taz.de;Wolfgang Bosbach;37;-0.102;-102
+CDU;www.taz.de;Wolfgang Schäuble;490;-0.1293;-129
+CDU;www.unsere-zeit.de;Angela Merkel;140;-0.1214;-121
+CDU;www.unsere-zeit.de;CDU;202;-0.1345;-134
+CDU;www.unsere-zeit.de;Wolfgang Schäuble;43;-0.0209;-20
+CDU;www.vorwaerts.de;Angela Merkel;421;-0.1644;-164
+CDU;www.vorwaerts.de;CDU;388;-0.0929;-92
+CDU;www.vorwaerts.de;Jens Spahn;34;-0.1407;-140
+CDU;www.vorwaerts.de;Ole Schröder;36;-0.1157;-115
+CDU;www.vorwaerts.de;Wolfgang Schäuble;50;-0.2277;-227
+CDU;www.welt.de;Angela Merkel;7008;-0.1423;-142
+CDU;www.welt.de;Anja Karliczek;58;-0.0729;-72
+CDU;www.welt.de;Annegret Kramp-Karrenbauer;645;-0.0767;-76
+CDU;www.welt.de;Annette Widmann-Mauz;43;-0.1085;-108
+CDU;www.welt.de;Armin Laschet;887;-0.0984;-98
+CDU;www.welt.de;Armin Schuster;57;-0.1673;-167
+CDU;www.welt.de;CDU;9738;-0.1062;-106
+CDU;www.welt.de;Carsten Linnemann;74;-0.0793;-79
+CDU;www.welt.de;Daniel Günther;441;-0.039;-38
+CDU;www.welt.de;Helge Braun;47;-0.0166;-16
+CDU;www.welt.de;Helmut Kohl;266;-0.0828;-82
+CDU;www.welt.de;Hermann Gröhe;197;-0.074;-73
+CDU;www.welt.de;Jens Spahn;896;-0.1582;-158
+CDU;www.welt.de;Johanna Wanka;94;-0.0058;-5
+CDU;www.welt.de;Julia Klöckner;528;-0.1257;-125
+CDU;www.welt.de;Junge Union;326;-0.0861;-86
+CDU;www.welt.de;Jürgen Hardt;34;-0.2392;-239
+CDU;www.welt.de;Konrad Adenauer;69;-0.0386;-38
+CDU;www.welt.de;Ludwig Erhard;35;-0.0905;-90
+CDU;www.welt.de;Michael Grosse-Brömer;68;-0.0401;-40
+CDU;www.welt.de;Michael Kretschmer;198;-0.0437;-43
+CDU;www.welt.de;Monika Grütters;43;-0.1045;-104
+CDU;www.welt.de;Norbert Lammert;82;-0.0645;-64
+CDU;www.welt.de;Norbert Röttgen;53;-0.1969;-196
+CDU;www.welt.de;Ole Schröder;163;-0.1229;-122
+CDU;www.welt.de;Paul Ziemiak;99;-0.1051;-105
+CDU;www.welt.de;Peter Altmaier;614;-0.0719;-71
+CDU;www.welt.de;Peter Tauber;267;-0.1348;-134
+CDU;www.welt.de;Reiner Haseloff;115;-0.0495;-49
+CDU;www.welt.de;Stephan Harbarth;34;-0.0817;-81
+CDU;www.welt.de;Thomas Strobl;539;-0.17;-169
+CDU;www.welt.de;Thomas de Maizière;1093;-0.2079;-207
+CDU;www.welt.de;Tobias Hans;49;-0.0517;-51
+CDU;www.welt.de;Ursula von der Leyen;746;-0.164;-164
+CDU;www.welt.de;Volker Bouffier;286;-0.0375;-37
+CDU;www.welt.de;Volker Kauder;389;-0.1553;-155
+CDU;www.welt.de;Wolfgang Bosbach;67;-0.1973;-197
+CDU;www.welt.de;Wolfgang Schäuble;916;-0.122;-121
+CDU;www.zeit.de;Angela Merkel;4707;-0.1266;-126
+CDU;www.zeit.de;Anja Karliczek;46;-0.0309;-30
+CDU;www.zeit.de;Annegret Kramp-Karrenbauer;334;-0.0952;-95
+CDU;www.zeit.de;Armin Laschet;306;-0.099;-99
+CDU;www.zeit.de;CDU;4885;-0.1048;-104
+CDU;www.zeit.de;Carsten Linnemann;37;-0.1006;-100
+CDU;www.zeit.de;Daniel Günther;138;-0.0704;-70
+CDU;www.zeit.de;Helmut Kohl;172;-0.1033;-103
+CDU;www.zeit.de;Hermann Gröhe;138;-0.0639;-63
+CDU;www.zeit.de;Jens Spahn;636;-0.1012;-101
+CDU;www.zeit.de;Johanna Wanka;54;-0.0736;-73
+CDU;www.zeit.de;Julia Klöckner;229;-0.1053;-105
+CDU;www.zeit.de;Junge Union;182;-0.1083;-108
+CDU;www.zeit.de;Konrad Adenauer;34;-0.1244;-124
+CDU;www.zeit.de;Michael Grosse-Brömer;43;-0.1352;-135
+CDU;www.zeit.de;Michael Kretschmer;105;-0.0941;-94
+CDU;www.zeit.de;Norbert Lammert;48;-0.0894;-89
+CDU;www.zeit.de;Norbert Röttgen;50;-0.1777;-177
+CDU;www.zeit.de;Ole Schröder;192;-0.138;-138
+CDU;www.zeit.de;Paul Ziemiak;82;-0.0748;-74
+CDU;www.zeit.de;Peter Altmaier;390;-0.1011;-101
+CDU;www.zeit.de;Peter Tauber;190;-0.105;-104
+CDU;www.zeit.de;Reiner Haseloff;46;-0.1633;-163
+CDU;www.zeit.de;Thomas Strobl;92;-0.106;-106
+CDU;www.zeit.de;Thomas de Maizière;754;-0.1946;-194
+CDU;www.zeit.de;Ursula von der Leyen;443;-0.1247;-124
+CDU;www.zeit.de;Volker Bouffier;115;-0.0679;-67
+CDU;www.zeit.de;Volker Kauder;239;-0.1136;-113
+CDU;www.zeit.de;Wolfgang Bosbach;34;-0.0795;-79
+CDU;www.zeit.de;Wolfgang Schäuble;459;-0.1128;-112
+CSU;www.afdkompakt.de;CSU;127;-0.2574;-257
+CSU;www.afdkompakt.de;Horst Seehofer;57;-0.2617;-261
+CSU;www.bayernkurier.de;Alexander Dobrindt;153;-0.0729;-72
+CSU;www.bayernkurier.de;Andreas Scheuer;198;-0.0632;-63
+CSU;www.bayernkurier.de;CSU;1197;-0.0635;-63
+CSU;www.bayernkurier.de;Edmund Stoiber;61;-0.0563;-56
+CSU;www.bayernkurier.de;Gerd Müller;35;-0.1082;-108
+CSU;www.bayernkurier.de;Gerda Hasselfeldt;71;-0.0863;-86
+CSU;www.bayernkurier.de;Horst Seehofer;611;-0.089;-89
+CSU;www.bayernkurier.de;Manfred Weber;67;-0.0952;-95
+CSU;www.bayernkurier.de;Markus Blume;46;-0.0206;-20
+CSU;www.bayernkurier.de;Markus Söder;270;-0.0109;-10
+CSU;www.bayernkurier.de;Melanie Huml;36;0.0095;9
+CSU;www.bayernkurier.de;Stephan Mayer;41;-0.1729;-172
+CSU;www.bild.de;Alexander Dobrindt;432;-0.1095;-109
+CSU;www.bild.de;Andreas Scheuer;150;-0.1403;-140
+CSU;www.bild.de;CSU;1883;-0.0817;-81
+CSU;www.bild.de;Christian Schmidt;94;-0.027;-27
+CSU;www.bild.de;Dorothee Bär;33;-0.0101;-10
+CSU;www.bild.de;Edmund Stoiber;44;-0.1217;-121
+CSU;www.bild.de;Gerd Müller;78;0.0106;10
+CSU;www.bild.de;Horst Seehofer;958;-0.0799;-79
+CSU;www.bild.de;Manfred Weber;45;-0.096;-96
+CSU;www.bild.de;Markus Söder;350;-0.0661;-66
+CSU;www.bild.de;Stephan Mayer;55;-0.2167;-216
+CSU;www.der-postillon.com;CSU;32;-0.0271;-27
+CSU;www.faz.net;Alexander Dobrindt;436;-0.0903;-90
+CSU;www.faz.net;Andreas Scheuer;126;-0.1486;-148
+CSU;www.faz.net;CSU;3206;-0.0718;-71
+CSU;www.faz.net;Christian Schmidt;70;-0.1327;-132
+CSU;www.faz.net;Dorothee Bär;56;-0.1428;-142
+CSU;www.faz.net;Edmund Stoiber;70;-0.1488;-148
+CSU;www.faz.net;Gerd Müller;62;-0.1072;-107
+CSU;www.faz.net;Gerda Hasselfeldt;38;-0.0415;-41
+CSU;www.faz.net;Hans-Peter Friedrich;40;-0.1507;-150
+CSU;www.faz.net;Horst Seehofer;1419;-0.0933;-93
+CSU;www.faz.net;Manfred Weber;69;-0.0387;-38
+CSU;www.faz.net;Markus Söder;758;-0.0534;-53
+CSU;www.faz.net;Stephan Mayer;40;-0.2548;-254
+CSU;www.focus.de;Alexander Dobrindt;828;-0.1563;-156
+CSU;www.focus.de;Andreas Scheuer;465;-0.1116;-111
+CSU;www.focus.de;CSU;4955;-0.1139;-113
+CSU;www.focus.de;Christian Schmidt;267;-0.0507;-50
+CSU;www.focus.de;Dorothee Bär;152;-0.0314;-31
+CSU;www.focus.de;Edmund Stoiber;106;-0.0986;-98
+CSU;www.focus.de;Gerd Müller;137;-0.0464;-46
+CSU;www.focus.de;Gerda Hasselfeldt;56;-0.1779;-177
+CSU;www.focus.de;Hans-Peter Friedrich;65;-0.1824;-182
+CSU;www.focus.de;Horst Seehofer;2764;-0.135;-135
+CSU;www.focus.de;Kurt Gribl;156;-0.0259;-25
+CSU;www.focus.de;Manfred Weber;161;-0.1357;-135
+CSU;www.focus.de;Markus Blume;50;-0.134;-134
+CSU;www.focus.de;Markus Söder;1118;-0.097;-96
+CSU;www.focus.de;Melanie Huml;182;-0.0771;-77
+CSU;www.focus.de;Stephan Mayer;77;-0.2207;-220
+CSU;www.fr.de;Alexander Dobrindt;447;-0.1475;-147
+CSU;www.fr.de;Andreas Scheuer;163;-0.1159;-115
+CSU;www.fr.de;CSU;1800;-0.1262;-126
+CSU;www.fr.de;Christian Schmidt;121;-0.0729;-72
+CSU;www.fr.de;Edmund Stoiber;37;-0.2304;-230
+CSU;www.fr.de;Horst Seehofer;995;-0.1218;-121
+CSU;www.fr.de;Manfred Weber;54;-0.1853;-185
+CSU;www.fr.de;Stephan Mayer;35;-0.291;-290
+CSU;www.gruene.de;CSU;45;-0.1491;-149
+CSU;www.handelsblatt.de;Alexander Dobrindt;197;-0.1179;-117
+CSU;www.handelsblatt.de;Andreas Scheuer;101;-0.0563;-56
+CSU;www.handelsblatt.de;CSU;1188;-0.0889;-88
+CSU;www.handelsblatt.de;Christian Schmidt;41;-0.0658;-65
+CSU;www.handelsblatt.de;Horst Seehofer;470;-0.155;-155
+CSU;www.handelsblatt.de;Markus Söder;101;-0.1096;-109
+CSU;www.huffingtonpost.de;Alexander Dobrindt;297;-0.1315;-131
+CSU;www.huffingtonpost.de;Andreas Scheuer;152;-0.104;-103
+CSU;www.huffingtonpost.de;CSU;1574;-0.0998;-99
+CSU;www.huffingtonpost.de;Christian Schmidt;46;-0.0545;-54
+CSU;www.huffingtonpost.de;Horst Seehofer;802;-0.1169;-116
+CSU;www.huffingtonpost.de;Manfred Weber;44;-0.0516;-51
+CSU;www.huffingtonpost.de;Markus Söder;149;-0.1454;-145
+CSU;www.huffingtonpost.de;Stephan Mayer;41;-0.1299;-129
+CSU;www.jungefreiheit.de;Alexander Dobrindt;51;-0.2608;-260
+CSU;www.jungefreiheit.de;CSU;360;-0.1668;-166
+CSU;www.jungefreiheit.de;Horst Seehofer;129;-0.3255;-325
+CSU;www.jungefreiheit.de;Markus Söder;32;-0.0432;-43
+CSU;www.jungewelt.de;Alexander Dobrindt;47;-0.1583;-158
+CSU;www.jungewelt.de;CSU;400;-0.1057;-105
+CSU;www.jungewelt.de;Horst Seehofer;102;-0.1451;-145
+CSU;www.n-tv.de;Alexander Dobrindt;493;-0.1102;-110
+CSU;www.n-tv.de;Andreas Scheuer;226;-0.0915;-91
+CSU;www.n-tv.de;CSU;3072;-0.3244;-324
+CSU;www.n-tv.de;Christian Schmidt;82;-0.0601;-60
+CSU;www.n-tv.de;Dorothee Bär;57;-0.1015;-101
+CSU;www.n-tv.de;Gerd Müller;43;-0.1479;-147
+CSU;www.n-tv.de;Gerda Hasselfeldt;32;-0.0984;-98
+CSU;www.n-tv.de;Horst Seehofer;1193;-0.1258;-125
+CSU;www.n-tv.de;Manfred Weber;50;-0.0395;-39
+CSU;www.n-tv.de;Markus Söder;250;-0.1189;-118
+CSU;www.n-tv.de;Stephan Mayer;43;-0.2885;-288
+CSU;www.neues-deutschland.de;Alexander Dobrindt;217;-0.1471;-147
+CSU;www.neues-deutschland.de;Andreas Scheuer;48;-0.127;-126
+CSU;www.neues-deutschland.de;CSU;1541;-0.0996;-99
+CSU;www.neues-deutschland.de;Christian Schmidt;80;-0.0896;-89
+CSU;www.neues-deutschland.de;Edmund Stoiber;141;-0.0922;-92
+CSU;www.neues-deutschland.de;Gerd Müller;41;-0.1278;-127
+CSU;www.neues-deutschland.de;Horst Seehofer;593;-0.1256;-125
+CSU;www.neues-deutschland.de;Manfred Weber;37;-0.0977;-97
+CSU;www.neues-deutschland.de;Markus Söder;193;-0.0879;-87
+CSU;www.neues-deutschland.de;Theo Waigel;35;-0.0692;-69
+CSU;www.spiegel.de;Alexander Dobrindt;798;-0.1562;-156
+CSU;www.spiegel.de;Andreas Scheuer;300;-0.1998;-199
+CSU;www.spiegel.de;CSU;2926;-0.1504;-150
+CSU;www.spiegel.de;Christian Schmidt;149;-0.1628;-162
+CSU;www.spiegel.de;Dorothee Bär;141;-0.1102;-110
+CSU;www.spiegel.de;Edmund Stoiber;52;-0.0988;-98
+CSU;www.spiegel.de;Gerd Müller;82;-0.036;-36
+CSU;www.spiegel.de;Horst Seehofer;1783;-0.1728;-172
+CSU;www.spiegel.de;Manfred Weber;107;-0.0939;-93
+CSU;www.spiegel.de;Markus Söder;606;-0.1466;-146
+CSU;www.stern.de;Alexander Dobrindt;150;-0.1568;-156
+CSU;www.stern.de;Andreas Scheuer;53;-0.1493;-149
+CSU;www.stern.de;CSU;746;-0.0938;-93
+CSU;www.stern.de;Christian Schmidt;33;-0.0873;-87
+CSU;www.stern.de;Horst Seehofer;439;-0.1638;-163
+CSU;www.stern.de;Markus Söder;133;-0.0458;-45
+CSU;www.sueddeutsche.de;Alexander Dobrindt;692;-0.0876;-87
+CSU;www.sueddeutsche.de;Andreas Scheuer;329;-0.049;-48
+CSU;www.sueddeutsche.de;CSU;4309;-0.0452;-45
+CSU;www.sueddeutsche.de;Christian Schmidt;205;-0.0721;-72
+CSU;www.sueddeutsche.de;Dorothee Bär;90;-0.0031;-3
+CSU;www.sueddeutsche.de;Edmund Stoiber;91;-0.0428;-42
+CSU;www.sueddeutsche.de;Florian Hahn;31;-0.0744;-74
+CSU;www.sueddeutsche.de;Gerd Müller;90;-0.0038;-3
+CSU;www.sueddeutsche.de;Gerda Hasselfeldt;49;-0.0126;-12
+CSU;www.sueddeutsche.de;Horst Seehofer;2051;-0.0556;-55
+CSU;www.sueddeutsche.de;Kurt Gribl;50;-0.0002;0
+CSU;www.sueddeutsche.de;Manfred Weber;139;-0.0546;-54
+CSU;www.sueddeutsche.de;Markus Blume;60;-0.1074;-107
+CSU;www.sueddeutsche.de;Markus Söder;1091;-0.0423;-42
+CSU;www.sueddeutsche.de;Melanie Huml;160;-0.054;-54
+CSU;www.tagesschau.de;Alexander Dobrindt;228;-0.1072;-107
+CSU;www.tagesschau.de;Andreas Scheuer;85;-0.0425;-42
+CSU;www.tagesschau.de;CSU;878;-0.0814;-81
+CSU;www.tagesschau.de;Christian Schmidt;37;-0.0146;-14
+CSU;www.tagesschau.de;Horst Seehofer;573;-0.1192;-119
+CSU;www.tagesschau.de;Manfred Weber;41;-0.0344;-34
+CSU;www.tagesschau.de;Markus Söder;157;-0.0753;-75
+CSU;www.tagesspiegel.de;Alexander Dobrindt;432;-0.1166;-116
+CSU;www.tagesspiegel.de;Andreas Scheuer;134;-0.1163;-116
+CSU;www.tagesspiegel.de;CSU;1411;-0.0885;-88
+CSU;www.tagesspiegel.de;Christian Schmidt;106;-0.0413;-41
+CSU;www.tagesspiegel.de;Edmund Stoiber;31;-0.1617;-161
+CSU;www.tagesspiegel.de;Gerd Müller;45;-0.0291;-29
+CSU;www.tagesspiegel.de;Horst Seehofer;824;-0.161;-161
+CSU;www.tagesspiegel.de;Manfred Weber;52;-0.0447;-44
+CSU;www.tagesspiegel.de;Markus Söder;175;-0.0741;-74
+CSU;www.taz.de;Alexander Dobrindt;287;-0.2035;-203
+CSU;www.taz.de;Andreas Scheuer;67;-0.1206;-120
+CSU;www.taz.de;CSU;1631;-0.1213;-121
+CSU;www.taz.de;Christian Schmidt;115;-0.0715;-71
+CSU;www.taz.de;Dorothee Bär;40;-0.1284;-128
+CSU;www.taz.de;Gerd Müller;44;-0.0456;-45
+CSU;www.taz.de;Hans-Peter Friedrich;88;-0.1458;-145
+CSU;www.taz.de;Horst Seehofer;770;-0.198;-198
+CSU;www.taz.de;Manfred Weber;46;-0.0409;-40
+CSU;www.taz.de;Markus Söder;235;-0.1294;-129
+CSU;www.unsere-zeit.de;Alexander Dobrindt;38;-0.1703;-170
+CSU;www.unsere-zeit.de;CSU;104;-0.0772;-77
+CSU;www.unsere-zeit.de;Horst Seehofer;84;-0.0766;-76
+CSU;www.vorwaerts.de;CSU;231;-0.1011;-101
+CSU;www.vorwaerts.de;Horst Seehofer;86;-0.2329;-232
+CSU;www.welt.de;Alexander Dobrindt;1053;-0.1435;-143
+CSU;www.welt.de;Andreas Scheuer;514;-0.1197;-119
+CSU;www.welt.de;CSU;5070;-0.1028;-102
+CSU;www.welt.de;Christian Schmidt;264;-0.091;-90
+CSU;www.welt.de;Dorothee Bär;115;-0.072;-72
+CSU;www.welt.de;Edmund Stoiber;78;-0.147;-147
+CSU;www.welt.de;Gerd Müller;143;-0.0178;-17
+CSU;www.welt.de;Gerda Hasselfeldt;50;-0.0885;-88
+CSU;www.welt.de;Horst Seehofer;2757;-0.1408;-140
+CSU;www.welt.de;Kurt Gribl;34;-0.0914;-91
+CSU;www.welt.de;Manfred Weber;191;-0.1215;-121
+CSU;www.welt.de;Markus Blume;71;-0.1318;-131
+CSU;www.welt.de;Markus Söder;1003;-0.0638;-63
+CSU;www.welt.de;Melanie Huml;127;-0.0816;-81
+CSU;www.welt.de;Stephan Mayer;99;-0.1634;-163
+CSU;www.zeit.de;Alexander Dobrindt;674;-0.1145;-114
+CSU;www.zeit.de;Andreas Scheuer;326;-0.0742;-74
+CSU;www.zeit.de;CSU;2766;-0.0852;-85
+CSU;www.zeit.de;Christian Schmidt;163;-0.0743;-74
+CSU;www.zeit.de;Dorothee Bär;43;-0.0273;-27
+CSU;www.zeit.de;Edmund Stoiber;49;-0.0455;-45
+CSU;www.zeit.de;Gerd Müller;105;-0.1198;-119
+CSU;www.zeit.de;Gerda Hasselfeldt;39;-0.0606;-60
+CSU;www.zeit.de;Horst Seehofer;1460;-0.0992;-99
+CSU;www.zeit.de;Manfred Weber;107;-0.1422;-142
+CSU;www.zeit.de;Markus Söder;430;-0.0783;-78
+CSU;www.zeit.de;Stephan Mayer;48;-0.2276;-227
+Die Grünen;www.bild.de;Anton Hofreiter;51;-0.05;-50
+Die Grünen;www.bild.de;Bündnis 90;81;-0.0987;-98
+Die Grünen;www.bild.de;Cem Özdemir;320;-0.1431;-143
+Die Grünen;www.bild.de;Claudia Roth;42;-0.1846;-184
+Die Grünen;www.bild.de;Jürgen Trittin;119;-0.1435;-143
+Die Grünen;www.bild.de;Katrin Göring-Eckardt;181;-0.0813;-81
+Die Grünen;www.bild.de;Robert Habeck;133;-0.0818;-81
+Die Grünen;www.bild.de;Volker Beck ;50;-0.1162;-116
+Die Grünen;www.bild.de;Winfried Kretschmann;224;-0.0861;-86
+Die Grünen;www.faz.net;Annalena Baerbock;79;-0.2;-199
+Die Grünen;www.faz.net;Anton Hofreiter;52;-0.0702;-70
+Die Grünen;www.faz.net;Bündnis 90;51;-0.0726;-72
+Die Grünen;www.faz.net;Cem Özdemir;293;-0.1406;-140
+Die Grünen;www.faz.net;Claudia Roth;48;-0.1;-99
+Die Grünen;www.faz.net;Jürgen Trittin;113;-0.1369;-136
+Die Grünen;www.faz.net;Katrin Göring-Eckardt;170;-0.0903;-90
+Die Grünen;www.faz.net;Oliver Krischer;43;-0.004;-3
+Die Grünen;www.faz.net;Omid Nouripour;32;-0.1419;-141
+Die Grünen;www.faz.net;Renate Künast;35;-0.2602;-260
+Die Grünen;www.faz.net;Robert Habeck;206;-0.0859;-85
+Die Grünen;www.faz.net;Volker Beck ;33;-0.2133;-213
+Die Grünen;www.faz.net;Winfried Kretschmann;217;-0.101;-101
+Die Grünen;www.focus.de;Annalena Baerbock;184;-0.1052;-105
+Die Grünen;www.focus.de;Anton Hofreiter;107;-0.1314;-131
+Die Grünen;www.focus.de;Bündnis 90;366;-0.0636;-63
+Die Grünen;www.focus.de;Cem Özdemir;542;-0.1993;-199
+Die Grünen;www.focus.de;Claudia Roth;155;-0.2351;-235
+Die Grünen;www.focus.de;Jürgen Trittin;301;-0.1696;-169
+Die Grünen;www.focus.de;Katrin Göring-Eckardt;319;-0.1475;-147
+Die Grünen;www.focus.de;Konstantin von Notz;42;-0.2037;-203
+Die Grünen;www.focus.de;Michael Kellner;48;-0.0934;-93
+Die Grünen;www.focus.de;Oliver Krischer;48;-0.0942;-94
+Die Grünen;www.focus.de;Renate Künast;51;-0.2019;-201
+Die Grünen;www.focus.de;Robert Habeck;546;-0.0752;-75
+Die Grünen;www.focus.de;Volker Beck ;45;-0.2075;-207
+Die Grünen;www.focus.de;Winfried Kretschmann;536;-0.0971;-97
+Die Grünen;www.fr.de;Annalena Baerbock;71;-0.1194;-119
+Die Grünen;www.fr.de;Anton Hofreiter;70;-0.1028;-102
+Die Grünen;www.fr.de;Claudia Roth;50;-0.0698;-69
+Die Grünen;www.fr.de;Irene Mihalic;32;-0.215;-215
+Die Grünen;www.fr.de;Jürgen Trittin;89;-0.1252;-125
+Die Grünen;www.fr.de;Konstantin von Notz;52;-0.1661;-166
+Die Grünen;www.fr.de;Michael Kellner;42;-0.1037;-103
+Die Grünen;www.fr.de;Omid Nouripour;60;-0.0752;-75
+Die Grünen;www.fr.de;Robert Habeck;186;-0.0888;-88
+Die Grünen;www.fr.de;Volker Beck ;43;-0.1504;-150
+Die Grünen;www.fr.de;Winfried Kretschmann;133;-0.0705;-70
+Die Grünen;www.gruene.de;Bündnis 90;101;-0.0026;-2
+Die Grünen;www.gruene.de;Cem Özdemir;58;-0.0113;-11
+Die Grünen;www.gruene.de;Katrin Göring-Eckardt;61;-0.0163;-16
+Die Grünen;www.gruene.de;Robert Habeck;36;0.0063;6
+Die Grünen;www.handelsblatt.de;Bündnis 90;40;-0.0345;-34
+Die Grünen;www.handelsblatt.de;Cem Özdemir;127;-0.1299;-129
+Die Grünen;www.handelsblatt.de;Jürgen Trittin;51;-0.1404;-140
+Die Grünen;www.handelsblatt.de;Katrin Göring-Eckardt;72;-0.0865;-86
+Die Grünen;www.handelsblatt.de;Robert Habeck;57;-0.057;-56
+Die Grünen;www.handelsblatt.de;Winfried Kretschmann;89;-0.0467;-46
+Die Grünen;www.huffingtonpost.de;Anton Hofreiter;36;-0.0447;-44
+Die Grünen;www.huffingtonpost.de;Bündnis 90;54;-0.0797;-79
+Die Grünen;www.huffingtonpost.de;Cem Özdemir;232;-0.0794;-79
+Die Grünen;www.huffingtonpost.de;Claudia Roth;53;-0.1644;-164
+Die Grünen;www.huffingtonpost.de;Jürgen Trittin;113;-0.1294;-129
+Die Grünen;www.huffingtonpost.de;Katrin Göring-Eckardt;173;-0.1306;-130
+Die Grünen;www.huffingtonpost.de;Omid Nouripour;38;-0.0981;-98
+Die Grünen;www.huffingtonpost.de;Robert Habeck;160;-0.1085;-108
+Die Grünen;www.huffingtonpost.de;Volker Beck ;47;-0.1976;-197
+Die Grünen;www.huffingtonpost.de;Winfried Kretschmann;90;-0.1545;-154
+Die Grünen;www.jungefreiheit.de;Cem Özdemir;45;-0.1511;-151
+Die Grünen;www.jungefreiheit.de;Katrin Göring-Eckardt;51;-0.1845;-184
+Die Grünen;www.jungewelt.de;Bündnis 90;76;-0.0836;-83
+Die Grünen;www.n-tv.de;Annalena Baerbock;56;-0.1524;-152
+Die Grünen;www.n-tv.de;Anton Hofreiter;62;-0.1966;-196
+Die Grünen;www.n-tv.de;Bündnis 90;106;-0.0394;-39
+Die Grünen;www.n-tv.de;Cem Özdemir;302;-0.1509;-150
+Die Grünen;www.n-tv.de;Claudia Roth;31;-0.2358;-235
+Die Grünen;www.n-tv.de;Jürgen Trittin;131;-0.0973;-97
+Die Grünen;www.n-tv.de;Katrin Göring-Eckardt;200;-0.1676;-167
+Die Grünen;www.n-tv.de;Robert Habeck;174;-0.1219;-121
+Die Grünen;www.n-tv.de;Winfried Kretschmann;132;-0.0838;-83
+Die Grünen;www.neues-deutschland.de;Annalena Baerbock;69;-0.0913;-91
+Die Grünen;www.neues-deutschland.de;Anton Hofreiter;39;-0.1671;-167
+Die Grünen;www.neues-deutschland.de;Bündnis 90;337;-0.0794;-79
+Die Grünen;www.neues-deutschland.de;Cem Özdemir;182;-0.1264;-126
+Die Grünen;www.neues-deutschland.de;Claudia Roth;75;-0.2212;-221
+Die Grünen;www.neues-deutschland.de;Jürgen Trittin;203;-0.1424;-142
+Die Grünen;www.neues-deutschland.de;Katrin Göring-Eckardt;142;-0.1217;-121
+Die Grünen;www.neues-deutschland.de;Konstantin von Notz;38;-0.2021;-202
+Die Grünen;www.neues-deutschland.de;Renate Künast;61;-0.0623;-62
+Die Grünen;www.neues-deutschland.de;Robert Habeck;130;-0.0524;-52
+Die Grünen;www.neues-deutschland.de;Winfried Kretschmann;95;-0.0604;-60
+Die Grünen;www.spiegel.de;Annalena Baerbock;93;-0.032;-32
+Die Grünen;www.spiegel.de;Anton Hofreiter;69;-0.1915;-191
+Die Grünen;www.spiegel.de;Bündnis 90;88;-0.1697;-169
+Die Grünen;www.spiegel.de;Cem Özdemir;373;-0.1248;-124
+Die Grünen;www.spiegel.de;Claudia Roth;65;-0.1277;-127
+Die Grünen;www.spiegel.de;Jürgen Trittin;198;-0.1781;-178
+Die Grünen;www.spiegel.de;Katrin Göring-Eckardt;256;-0.1499;-149
+Die Grünen;www.spiegel.de;Oliver Krischer;32;-0.2353;-235
+Die Grünen;www.spiegel.de;Robert Habeck;324;-0.1063;-106
+Die Grünen;www.spiegel.de;Winfried Kretschmann;236;-0.1617;-161
+Die Grünen;www.stern.de;Cem Özdemir;117;-0.1392;-139
+Die Grünen;www.stern.de;Katrin Göring-Eckardt;84;-0.1613;-161
+Die Grünen;www.stern.de;Robert Habeck;51;-0.1131;-113
+Die Grünen;www.sueddeutsche.de;Annalena Baerbock;137;-0.093;-93
+Die Grünen;www.sueddeutsche.de;Anton Hofreiter;86;-0.0811;-81
+Die Grünen;www.sueddeutsche.de;Bündnis 90;195;-0.081;-80
+Die Grünen;www.sueddeutsche.de;Cem Özdemir;315;-0.0549;-54
+Die Grünen;www.sueddeutsche.de;Claudia Roth;49;-0.0169;-16
+Die Grünen;www.sueddeutsche.de;Jürgen Trittin;109;-0.0342;-34
+Die Grünen;www.sueddeutsche.de;Katrin Göring-Eckardt;213;-0.105;-105
+Die Grünen;www.sueddeutsche.de;Michael Kellner;33;-0.1371;-137
+Die Grünen;www.sueddeutsche.de;Robert Habeck;361;-0.0432;-43
+Die Grünen;www.sueddeutsche.de;Winfried Kretschmann;488;-0.0546;-54
+Die Grünen;www.tagesschau.de;Annalena Baerbock;150;-0.0209;-20
+Die Grünen;www.tagesschau.de;Anton Hofreiter;33;-0.0629;-62
+Die Grünen;www.tagesschau.de;Bündnis 90;55;-0.0258;-25
+Die Grünen;www.tagesschau.de;Cem Özdemir;143;-0.1647;-164
+Die Grünen;www.tagesschau.de;Jürgen Trittin;37;-0.1204;-120
+Die Grünen;www.tagesschau.de;Katrin Göring-Eckardt;77;-0.1121;-112
+Die Grünen;www.tagesschau.de;Robert Habeck;76;-0.0655;-65
+Die Grünen;www.tagesschau.de;Winfried Kretschmann;34;-0.0968;-96
+Die Grünen;www.tagesspiegel.de;Annalena Baerbock;68;-0.0298;-29
+Die Grünen;www.tagesspiegel.de;Anton Hofreiter;56;-0.1134;-113
+Die Grünen;www.tagesspiegel.de;Bündnis 90;137;-0.0209;-20
+Die Grünen;www.tagesspiegel.de;Cem Özdemir;313;-0.1116;-111
+Die Grünen;www.tagesspiegel.de;Claudia Roth;40;-0.1721;-172
+Die Grünen;www.tagesspiegel.de;Jürgen Trittin;99;-0.2007;-200
+Die Grünen;www.tagesspiegel.de;Katrin Göring-Eckardt;197;-0.0884;-88
+Die Grünen;www.tagesspiegel.de;Renate Künast;45;-0.1678;-167
+Die Grünen;www.tagesspiegel.de;Robert Habeck;149;-0.0384;-38
+Die Grünen;www.tagesspiegel.de;Volker Beck ;45;-0.0944;-94
+Die Grünen;www.tagesspiegel.de;Winfried Kretschmann;125;-0.0645;-64
+Die Grünen;www.taz.de;Annalena Baerbock;95;-0.0522;-52
+Die Grünen;www.taz.de;Anton Hofreiter;46;-0.0912;-91
+Die Grünen;www.taz.de;Bündnis 90;186;-0.1234;-123
+Die Grünen;www.taz.de;Canan Bayram;54;-0.0644;-64
+Die Grünen;www.taz.de;Cem Özdemir;342;-0.1669;-166
+Die Grünen;www.taz.de;Claudia Roth;76;-0.1512;-151
+Die Grünen;www.taz.de;Jürgen Trittin;217;-0.1409;-140
+Die Grünen;www.taz.de;Katrin Göring-Eckardt;233;-0.0903;-90
+Die Grünen;www.taz.de;Konstantin von Notz;39;-0.0508;-50
+Die Grünen;www.taz.de;Renate Künast;84;-0.1521;-152
+Die Grünen;www.taz.de;Robert Habeck;370;-0.0449;-44
+Die Grünen;www.taz.de;Volker Beck ;67;-0.1432;-143
+Die Grünen;www.taz.de;Winfried Kretschmann;258;-0.0877;-87
+Die Grünen;www.welt.de;Agnieszka Brugger;37;-0.2546;-254
+Die Grünen;www.welt.de;Annalena Baerbock;201;-0.0859;-85
+Die Grünen;www.welt.de;Anton Hofreiter;147;-0.201;-201
+Die Grünen;www.welt.de;Britta Haßelmann;40;-0.0123;-12
+Die Grünen;www.welt.de;Bündnis 90;162;-0.137;-137
+Die Grünen;www.welt.de;Cem Özdemir;693;-0.1465;-146
+Die Grünen;www.welt.de;Claudia Roth;78;-0.1901;-190
+Die Grünen;www.welt.de;Jürgen Trittin;253;-0.1867;-186
+Die Grünen;www.welt.de;Katrin Göring-Eckardt;477;-0.1472;-147
+Die Grünen;www.welt.de;Konstantin von Notz;85;-0.2382;-238
+Die Grünen;www.welt.de;Michael Kellner;82;-0.1567;-156
+Die Grünen;www.welt.de;Oliver Krischer;35;-0.1978;-197
+Die Grünen;www.welt.de;Omid Nouripour;34;-0.2297;-229
+Die Grünen;www.welt.de;Robert Habeck;784;-0.0828;-82
+Die Grünen;www.welt.de;Volker Beck ;72;-0.2241;-224
+Die Grünen;www.welt.de;Winfried Kretschmann;616;-0.0738;-73
+Die Grünen;www.zeit.de;Annalena Baerbock;135;-0.0674;-67
+Die Grünen;www.zeit.de;Anton Hofreiter;98;-0.0982;-98
+Die Grünen;www.zeit.de;Bündnis 90;91;-0.1021;-102
+Die Grünen;www.zeit.de;Cem Özdemir;441;-0.1248;-124
+Die Grünen;www.zeit.de;Claudia Roth;65;-0.2556;-255
+Die Grünen;www.zeit.de;Jürgen Trittin;140;-0.1107;-110
+Die Grünen;www.zeit.de;Katrin Göring-Eckardt;318;-0.1113;-111
+Die Grünen;www.zeit.de;Konstantin von Notz;41;-0.2706;-270
+Die Grünen;www.zeit.de;Michael Kellner;49;-0.0894;-89
+Die Grünen;www.zeit.de;Oliver Krischer;32;-0.1944;-194
+Die Grünen;www.zeit.de;Renate Künast;39;-0.0831;-83
+Die Grünen;www.zeit.de;Robert Habeck;316;-0.0697;-69
+Die Grünen;www.zeit.de;Winfried Kretschmann;203;-0.0963;-96
+Die Linke;www.afdkompakt.de;Die Linke;213;-0.1902;-190
+Die Linke;www.bayernkurier.de;Die Linke;112;-0.2472;-247
+Die Linke;www.bild.de;Bernd Riexinger;42;-0.1421;-142
+Die Linke;www.bild.de;Bodo Ramelow;76;-0.1045;-104
+Die Linke;www.bild.de;Die Linke;938;-0.102;-101
+Die Linke;www.bild.de;Dietmar Bartsch;46;-0.126;-125
+Die Linke;www.bild.de;Katja Kipping;84;-0.1602;-160
+Die Linke;www.bild.de;Sahra Wagenknecht;150;-0.0873;-87
+Die Linke;www.faz.net;Bernd Riexinger;43;-0.129;-128
+Die Linke;www.faz.net;Bodo Ramelow;68;-0.2124;-212
+Die Linke;www.faz.net;Die Linke;822;-0.158;-157
+Die Linke;www.faz.net;Dietmar Bartsch;40;-0.2095;-209
+Die Linke;www.faz.net;Gesine Lötzsch;31;-0.2426;-242
+Die Linke;www.faz.net;Gregor Gysi;83;-0.0682;-68
+Die Linke;www.faz.net;Janine Wissler;52;-0.1384;-138
+Die Linke;www.faz.net;Katja Kipping;80;-0.1115;-111
+Die Linke;www.faz.net;Sahra Wagenknecht;1261;-0.0195;-19
+Die Linke;www.focus.de;Bernd Riexinger;181;-0.1559;-155
+Die Linke;www.focus.de;Bodo Ramelow;308;-0.0574;-57
+Die Linke;www.focus.de;Die Linke;2805;-0.1658;-165
+Die Linke;www.focus.de;Dietmar Bartsch;96;-0.1223;-122
+Die Linke;www.focus.de;Gregor Gysi;57;-0.1545;-154
+Die Linke;www.focus.de;Jan Korte;36;-0.1149;-114
+Die Linke;www.focus.de;Jan van Aken;33;-0.3601;-360
+Die Linke;www.focus.de;Janine Wissler;56;-0.0433;-43
+Die Linke;www.focus.de;Katja Kipping;227;-0.1882;-188
+Die Linke;www.focus.de;Sahra Wagenknecht;387;-0.1822;-182
+Die Linke;www.focus.de;Simone Oldenburg;73;-0.0396;-39
+Die Linke;www.focus.de;Ulla Jelpke;64;-0.1963;-196
+Die Linke;www.fr.de;Bernd Riexinger;127;-0.1421;-142
+Die Linke;www.fr.de;Bodo Ramelow;41;-0.0938;-93
+Die Linke;www.fr.de;Die Linke;1262;-0.1209;-120
+Die Linke;www.fr.de;Dietmar Bartsch;84;-0.1482;-148
+Die Linke;www.fr.de;Gregor Gysi;32;-0.1305;-130
+Die Linke;www.fr.de;Janine Wissler;230;-0.1075;-107
+Die Linke;www.fr.de;Katja Kipping;134;-0.1411;-141
+Die Linke;www.fr.de;Sahra Wagenknecht;199;-0.1873;-187
+Die Linke;www.fr.de;Ulla Jelpke;53;-0.2509;-250
+Die Linke;www.handelsblatt.de;Die Linke;269;-0.1533;-153
+Die Linke;www.handelsblatt.de;Sahra Wagenknecht;64;-0.1809;-180
+Die Linke;www.huffingtonpost.de;Bernd Riexinger;56;-0.0935;-93
+Die Linke;www.huffingtonpost.de;Die Linke;1543;-0.077;-77
+Die Linke;www.huffingtonpost.de;Dietmar Bartsch;35;-0.0928;-92
+Die Linke;www.huffingtonpost.de;Gregor Gysi;32;-0.2004;-200
+Die Linke;www.huffingtonpost.de;Katja Kipping;111;-0.1591;-159
+Die Linke;www.huffingtonpost.de;Sahra Wagenknecht;1314;-0.03;-29
+Die Linke;www.jungefreiheit.de;Die Linke;91;-0.2847;-284
+Die Linke;www.jungewelt.de;Bernd Riexinger;48;-0.0436;-43
+Die Linke;www.jungewelt.de;Bodo Ramelow;35;-0.025;-25
+Die Linke;www.jungewelt.de;Die Linke;801;-0.1821;-182
+Die Linke;www.jungewelt.de;Katja Kipping;39;-0.1366;-136
+Die Linke;www.jungewelt.de;Sahra Wagenknecht;57;-0.1739;-173
+Die Linke;www.n-tv.de;Bernd Riexinger;77;-0.0805;-80
+Die Linke;www.n-tv.de;Bodo Ramelow;53;-0.2093;-209
+Die Linke;www.n-tv.de;Die Linke;788;-0.156;-155
+Die Linke;www.n-tv.de;Dietmar Bartsch;63;-0.1376;-137
+Die Linke;www.n-tv.de;Gregor Gysi;32;-0.1302;-130
+Die Linke;www.n-tv.de;Katja Kipping;89;-0.1507;-150
+Die Linke;www.n-tv.de;Sahra Wagenknecht;152;-0.1507;-150
+Die Linke;www.neues-deutschland.de;Bernd Riexinger;271;-0.1612;-161
+Die Linke;www.neues-deutschland.de;Bodo Ramelow;315;-0.1137;-113
+Die Linke;www.neues-deutschland.de;Diana Golze;83;-0.1186;-118
+Die Linke;www.neues-deutschland.de;Die Linke;3031;-0.1162;-116
+Die Linke;www.neues-deutschland.de;Diether Dehm;69;-0.1205;-120
+Die Linke;www.neues-deutschland.de;Dietmar Bartsch;181;-0.0686;-68
+Die Linke;www.neues-deutschland.de;Gesine Lötzsch;139;-0.1228;-122
+Die Linke;www.neues-deutschland.de;Gregor Gysi;327;-0.092;-92
+Die Linke;www.neues-deutschland.de;Jan Korte;114;-0.1508;-150
+Die Linke;www.neues-deutschland.de;Jan van Aken;45;-0.1867;-186
+Die Linke;www.neues-deutschland.de;Janine Wissler;48;-0.1099;-109
+Die Linke;www.neues-deutschland.de;Katja Kipping;396;-0.1376;-137
+Die Linke;www.neues-deutschland.de;Klaus Ernst;64;-0.0097;-9
+Die Linke;www.neues-deutschland.de;Petra Pau;126;-0.1632;-163
+Die Linke;www.neues-deutschland.de;Pia Zimmermann;39;-0.0653;-65
+Die Linke;www.neues-deutschland.de;Sahra Wagenknecht;355;-0.1421;-142
+Die Linke;www.neues-deutschland.de;Stefan Liebich;36;-0.0852;-85
+Die Linke;www.neues-deutschland.de;Ulla Jelpke;102;-0.2945;-294
+Die Linke;www.spiegel.de;Bernd Riexinger;85;-0.1545;-154
+Die Linke;www.spiegel.de;Bodo Ramelow;57;-0.2053;-205
+Die Linke;www.spiegel.de;Die Linke;1612;-0.2043;-204
+Die Linke;www.spiegel.de;Dietmar Bartsch;68;-0.1761;-176
+Die Linke;www.spiegel.de;Gregor Gysi;39;-0.1731;-173
+Die Linke;www.spiegel.de;Jörg Schindler;38;-0.2369;-236
+Die Linke;www.spiegel.de;Katja Kipping;186;-0.2333;-233
+Die Linke;www.spiegel.de;Sahra Wagenknecht;447;-0.2059;-205
+Die Linke;www.stern.de;Bernd Riexinger;31;-0.2138;-213
+Die Linke;www.stern.de;Die Linke;171;-0.1644;-164
+Die Linke;www.stern.de;Katja Kipping;39;-0.1926;-192
+Die Linke;www.stern.de;Sahra Wagenknecht;54;-0.2648;-264
+Die Linke;www.sueddeutsche.de;Bernd Riexinger;97;-0.1163;-116
+Die Linke;www.sueddeutsche.de;Bodo Ramelow;151;-0.076;-75
+Die Linke;www.sueddeutsche.de;Die Linke;945;-0.0737;-73
+Die Linke;www.sueddeutsche.de;Dietmar Bartsch;70;-0.0368;-36
+Die Linke;www.sueddeutsche.de;Eva Schreiber;49;-0.1142;-114
+Die Linke;www.sueddeutsche.de;Katja Kipping;119;-0.0758;-75
+Die Linke;www.sueddeutsche.de;Sahra Wagenknecht;167;-0.0843;-84
+Die Linke;www.sueddeutsche.de;Ulla Jelpke;37;-0.1028;-102
+Die Linke;www.tagesschau.de;Bernd Riexinger;34;-0.067;-67
+Die Linke;www.tagesschau.de;Die Linke;250;-0.1524;-152
+Die Linke;www.tagesschau.de;Katja Kipping;44;-0.2469;-246
+Die Linke;www.tagesschau.de;Sahra Wagenknecht;74;-0.2316;-231
+Die Linke;www.tagesspiegel.de;Bernd Riexinger;77;-0.2036;-203
+Die Linke;www.tagesspiegel.de;Bodo Ramelow;61;-0.2031;-203
+Die Linke;www.tagesspiegel.de;Die Linke;1430;-0.1404;-140
+Die Linke;www.tagesspiegel.de;Dietmar Bartsch;67;-0.0851;-85
+Die Linke;www.tagesspiegel.de;Eva Schreiber;31;-0.1953;-195
+Die Linke;www.tagesspiegel.de;Gregor Gysi;53;-0.0748;-74
+Die Linke;www.tagesspiegel.de;Katja Kipping;118;-0.1629;-162
+Die Linke;www.tagesspiegel.de;Petra Pau;42;-0.078;-77
+Die Linke;www.tagesspiegel.de;Sahra Wagenknecht;205;-0.1768;-176
+Die Linke;www.tagesspiegel.de;Ulla Jelpke;54;-0.3402;-340
+Die Linke;www.taz.de;Bernd Riexinger;138;-0.1143;-114
+Die Linke;www.taz.de;Bodo Ramelow;152;-0.1346;-134
+Die Linke;www.taz.de;Die Linke;2614;-0.1862;-186
+Die Linke;www.taz.de;Diether Dehm;36;-0.1971;-197
+Die Linke;www.taz.de;Dietmar Bartsch;95;-0.1896;-189
+Die Linke;www.taz.de;Gesine Lötzsch;90;-0.1562;-156
+Die Linke;www.taz.de;Gregor Gysi;117;-0.1125;-112
+Die Linke;www.taz.de;Jan Korte;49;-0.1258;-125
+Die Linke;www.taz.de;Jan van Aken;36;-0.2496;-249
+Die Linke;www.taz.de;Katja Kipping;266;-0.1286;-128
+Die Linke;www.taz.de;Klaus Ernst;60;-0.1981;-198
+Die Linke;www.taz.de;Petra Pau;47;-0.1279;-127
+Die Linke;www.taz.de;Sahra Wagenknecht;405;-0.1424;-142
+Die Linke;www.taz.de;Ulla Jelpke;68;-0.2878;-287
+Die Linke;www.unsere-zeit.de;Die Linke;186;-0.1035;-103
+Die Linke;www.vorwaerts.de;Die Linke;99;-0.1476;-147
+Die Linke;www.welt.de;Bernd Riexinger;220;-0.2066;-206
+Die Linke;www.welt.de;Bodo Ramelow;223;-0.1422;-142
+Die Linke;www.welt.de;Die Linke;2136;-0.1521;-152
+Die Linke;www.welt.de;Dietmar Bartsch;146;-0.1731;-173
+Die Linke;www.welt.de;Gregor Gysi;43;-0.0826;-82
+Die Linke;www.welt.de;Jan Korte;37;-0.196;-195
+Die Linke;www.welt.de;Jan van Aken;39;-0.2874;-287
+Die Linke;www.welt.de;Janine Wissler;34;-0.1738;-173
+Die Linke;www.welt.de;Katja Kipping;276;-0.2397;-239
+Die Linke;www.welt.de;Sahra Wagenknecht;366;-0.2345;-234
+Die Linke;www.welt.de;Simone Oldenburg;58;-0.1131;-113
+Die Linke;www.welt.de;Ulla Jelpke;80;-0.3104;-310
+Die Linke;www.zeit.de;Bernd Riexinger;152;-0.0934;-93
+Die Linke;www.zeit.de;Bodo Ramelow;87;-0.0543;-54
+Die Linke;www.zeit.de;Die Linke;1360;-0.161;-160
+Die Linke;www.zeit.de;Dietmar Bartsch;73;-0.1925;-192
+Die Linke;www.zeit.de;Jan Korte;37;-0.2872;-287
+Die Linke;www.zeit.de;Katja Kipping;183;-0.1112;-111
+Die Linke;www.zeit.de;Sahra Wagenknecht;274;-0.1811;-181
+Die Linke;www.zeit.de;Ulla Jelpke;58;-0.1542;-154
+FDP;www.afdkompakt.de;Christian Lindner;32;-0.1379;-137
+FDP;www.afdkompakt.de;FDP;1173;-0.095;-94
+FDP;www.bayernkurier.de;FDP;174;-0.0743;-74
+FDP;www.bild.de;Alexander Graf Lambsdorff;51;-0.1967;-196
+FDP;www.bild.de;Christian Lindner;673;-0.0652;-65
+FDP;www.bild.de;FDP;1756;-0.0729;-72
+FDP;www.bild.de;Katja Suding;70;-0.0238;-23
+FDP;www.bild.de;Nicola Beer;41;-0.1507;-150
+FDP;www.bild.de;Wolfgang Kubicki;257;-0.0849;-84
+FDP;www.faz.net;Christian Lindner;1424;-0.0575;-57
+FDP;www.faz.net;FDP;2014;-0.1041;-104
+FDP;www.faz.net;Michael Theurer;57;-0.0467;-46
+FDP;www.faz.net;Nicola Beer;62;-0.1851;-185
+FDP;www.faz.net;Wolfgang Kubicki;253;-0.1135;-113
+FDP;www.focus.de;Alexander Graf Lambsdorff;48;-0.1093;-109
+FDP;www.focus.de;Christian Lindner;1725;-0.1864;-186
+FDP;www.focus.de;FDP;3817;-0.1158;-115
+FDP;www.focus.de;Katja Suding;76;-0.0964;-96
+FDP;www.focus.de;Marco Buschmann;37;-0.1318;-131
+FDP;www.focus.de;Michael Theurer;46;-0.1347;-134
+FDP;www.focus.de;Nicola Beer;82;-0.1027;-102
+FDP;www.focus.de;Wolfgang Kubicki;602;-0.1339;-133
+FDP;www.fr.de;Christian Lindner;503;-0.1361;-136
+FDP;www.fr.de;FDP;1983;-0.0931;-93
+FDP;www.fr.de;Nicola Beer;68;-0.1384;-138
+FDP;www.fr.de;Wolfgang Kubicki;146;-0.1192;-119
+FDP;www.gruene.de;FDP;34;-0.093;-93
+FDP;www.handelsblatt.de;Christian Lindner;364;-0.0621;-62
+FDP;www.handelsblatt.de;FDP;817;-0.0796;-79
+FDP;www.handelsblatt.de;Wolfgang Kubicki;94;-0.0931;-93
+FDP;www.huffingtonpost.de;Christian Lindner;679;-0.1032;-103
+FDP;www.huffingtonpost.de;FDP;1205;-0.0639;-63
+FDP;www.huffingtonpost.de;Nicola Beer;36;-0.0531;-53
+FDP;www.huffingtonpost.de;Wolfgang Kubicki;265;-0.1043;-104
+FDP;www.jungefreiheit.de;Christian Lindner;61;-0.0776;-77
+FDP;www.jungefreiheit.de;FDP;240;-0.1138;-113
+FDP;www.jungewelt.de;Christian Lindner;49;-0.2003;-200
+FDP;www.jungewelt.de;FDP;246;-0.1061;-106
+FDP;www.n-tv.de;Christian Lindner;706;-0.122;-121
+FDP;www.n-tv.de;FDP;1221;-0.1199;-119
+FDP;www.n-tv.de;Nicola Beer;32;-0.3255;-325
+FDP;www.n-tv.de;Wolfgang Kubicki;205;-0.184;-184
+FDP;www.neues-deutschland.de;Christian Lindner;212;-0.0935;-93
+FDP;www.neues-deutschland.de;FDP;1566;-0.0841;-84
+FDP;www.neues-deutschland.de;Wolfgang Kubicki;83;-0.0875;-87
+FDP;www.spiegel.de;Alexander Graf Lambsdorff;35;-0.0152;-15
+FDP;www.spiegel.de;Christian Lindner;1265;-0.1397;-139
+FDP;www.spiegel.de;FDP;2057;-0.1407;-140
+FDP;www.spiegel.de;Nicola Beer;32;-0.0893;-89
+FDP;www.spiegel.de;Wolfgang Kubicki;360;-0.1746;-174
+FDP;www.stern.de;Christian Lindner;235;-0.0739;-73
+FDP;www.stern.de;FDP;448;-0.0852;-85
+FDP;www.stern.de;Wolfgang Kubicki;55;-0.1131;-113
+FDP;www.sueddeutsche.de;Christian Lindner;763;-0.0702;-70
+FDP;www.sueddeutsche.de;FDP;2112;-0.0531;-53
+FDP;www.sueddeutsche.de;Katja Suding;33;-0.0633;-63
+FDP;www.sueddeutsche.de;Nicola Beer;55;-0.1004;-100
+FDP;www.sueddeutsche.de;Wolfgang Kubicki;251;-0.0839;-83
+FDP;www.tagesschau.de;Christian Lindner;236;-0.0715;-71
+FDP;www.tagesschau.de;FDP;586;-0.0621;-62
+FDP;www.tagesschau.de;Wolfgang Kubicki;71;-0.0338;-33
+FDP;www.tagesspiegel.de;Alexander Graf Lambsdorff;31;-0.0524;-52
+FDP;www.tagesspiegel.de;Christian Lindner;587;-0.0645;-64
+FDP;www.tagesspiegel.de;FDP;1465;-0.0926;-92
+FDP;www.tagesspiegel.de;Wolfgang Kubicki;166;-0.0759;-75
+FDP;www.taz.de;Christian Lindner;576;-0.1219;-121
+FDP;www.taz.de;FDP;1865;-0.1058;-105
+FDP;www.taz.de;Katja Suding;41;-0.1488;-148
+FDP;www.taz.de;Wolfgang Kubicki;153;-0.1575;-157
+FDP;www.unsere-zeit.de;FDP;77;-0.1492;-149
+FDP;www.vorwaerts.de;Christian Lindner;36;-0.194;-193
+FDP;www.vorwaerts.de;FDP;115;-0.0898;-89
+FDP;www.welt.de;Alexander Graf Lambsdorff;75;-0.1561;-156
+FDP;www.welt.de;Christian Lindner;1451;-0.0898;-89
+FDP;www.welt.de;FDP;4129;-0.0943;-94
+FDP;www.welt.de;Katja Suding;121;-0.1097;-109
+FDP;www.welt.de;Marco Buschmann;56;-0.1406;-140
+FDP;www.welt.de;Michael Theurer;47;-0.1126;-112
+FDP;www.welt.de;Nicola Beer;122;-0.139;-139
+FDP;www.welt.de;Wolfgang Kubicki;684;-0.1359;-135
+FDP;www.zeit.de;Alexander Graf Lambsdorff;44;-0.2386;-238
+FDP;www.zeit.de;Christian Lindner;894;-0.0974;-97
+FDP;www.zeit.de;FDP;1981;-0.0844;-84
+FDP;www.zeit.de;Katja Suding;43;-0.1463;-146
+FDP;www.zeit.de;Marco Buschmann;35;-0.0586;-58
+FDP;www.zeit.de;Nicola Beer;69;-0.0787;-78
+FDP;www.zeit.de;Wolfgang Kubicki;326;-0.0906;-90
+NPD;www.bild.de;NPD;122;-0.2025;-202
+NPD;www.faz.net;NPD;175;-0.1209;-120
+NPD;www.focus.de;NPD;406;-0.1858;-185
+NPD;www.fr.de;NPD;273;-0.1927;-192
+NPD;www.handelsblatt.de;NPD;34;-0.2444;-244
+NPD;www.huffingtonpost.de;NPD;138;-0.1891;-189
+NPD;www.jungefreiheit.de;NPD;39;-0.1673;-167
+NPD;www.jungewelt.de;NPD;87;-0.1567;-156
+NPD;www.n-tv.de;NPD;135;-0.1555;-155
+NPD;www.neues-deutschland.de;NPD;428;-0.1461;-146
+NPD;www.spiegel.de;NPD;286;-0.2343;-234
+NPD;www.stern.de;NPD;41;-0.2714;-271
+NPD;www.sueddeutsche.de;NPD;175;-0.1003;-100
+NPD;www.tagesschau.de;NPD;49;-0.179;-178
+NPD;www.tagesspiegel.de;NPD;212;-0.1868;-186
+NPD;www.taz.de;NPD;625;-0.2201;-220
+NPD;www.vorwaerts.de;NPD;79;-0.1356;-135
+NPD;www.welt.de;NPD;327;-0.2063;-206
+NPD;www.zeit.de;NPD;288;-0.155;-155
+Piratenpartei;www.faz.net;die Piratenpartei;32;-0.1089;-108
+Piratenpartei;www.focus.de;die Piratenpartei;45;-0.0775;-77
+Piratenpartei;www.neues-deutschland.de;die Piratenpartei;50;-0.024;-23
+Piratenpartei;www.tagesspiegel.de;die Piratenpartei;32;-0.1152;-115
+Piratenpartei;www.taz.de;die Piratenpartei;155;-0.0835;-83
+Piratenpartei;www.welt.de;die Piratenpartei;31;-0.0787;-78
+Piratenpartei;www.zeit.de;die Piratenpartei;31;-0.2127;-212
+SPD;www.afdkompakt.de;Heiko Maas;45;-0.2118;-211
+SPD;www.afdkompakt.de;Malu Dreyer;43;-0.2491;-249
+SPD;www.afdkompakt.de;Martin Schulz;97;-0.1884;-188
+SPD;www.afdkompakt.de;SPD;543;-0.2067;-206
+SPD;www.afdkompakt.de;Sigmar Gabriel;36;-0.3776;-377
+SPD;www.bayernkurier.de;Andrea Nahles;39;-0.1609;-160
+SPD;www.bayernkurier.de;Frank-Walter Steinmeier;53;-0.1593;-159
+SPD;www.bayernkurier.de;Heiko Maas;36;-0.2825;-282
+SPD;www.bayernkurier.de;Martin Schulz;301;-0.1506;-150
+SPD;www.bayernkurier.de;SPD;670;-0.1352;-135
+SPD;www.bayernkurier.de;Sigmar Gabriel;111;-0.1636;-163
+SPD;www.bild.de;Andrea Nahles;440;-0.0426;-42
+SPD;www.bild.de;Barbara Hendricks;179;-0.0573;-57
+SPD;www.bild.de;Brigitte Zypries;130;-0.0278;-27
+SPD;www.bild.de;Carsten Sieling;50;0.1043;104
+SPD;www.bild.de;Dietmar Woidke;54;-0.1325;-132
+SPD;www.bild.de;Frank-Walter Steinmeier;543;-0.0705;-70
+SPD;www.bild.de;Franziska Giffey;66;-0.0937;-93
+SPD;www.bild.de;Heiko Maas;426;-0.2084;-208
+SPD;www.bild.de;Hubertus Heil;48;0.0013;1
+SPD;www.bild.de;Johannes Kahrs;32;-0.0326;-32
+SPD;www.bild.de;Jusos;46;-0.089;-89
+SPD;www.bild.de;Katarina Barley;161;-0.0977;-97
+SPD;www.bild.de;Lars Klingbeil;66;-0.0515;-51
+SPD;www.bild.de;Malu Dreyer;161;-0.0329;-32
+SPD;www.bild.de;Manuela Schwesig;157;-0.0794;-79
+SPD;www.bild.de;Martin Schulz;2292;-0.0604;-60
+SPD;www.bild.de;Michael Müller;209;-0.0961;-96
+SPD;www.bild.de;Natascha Kohnen;49;0.0057;5
+SPD;www.bild.de;Olaf Scholz;600;-0.0766;-76
+SPD;www.bild.de;Peter Tschentscher;31;0.0212;21
+SPD;www.bild.de;Ralf Stegner;188;-0.0705;-70
+SPD;www.bild.de;SPD;4795;-0.0747;-74
+SPD;www.bild.de;Sigmar Gabriel;1124;-0.1216;-121
+SPD;www.bild.de;Stephan Weil;210;-0.0709;-70
+SPD;www.bild.de;Thomas Oppermann;159;-0.0989;-98
+SPD;www.bild.de;Thorsten Schäfer-Gümbel;70;-0.0478;-47
+SPD;www.der-postillon.com;Martin Schulz;85;-0.1169;-116
+SPD;www.der-postillon.com;SPD;101;-0.1518;-151
+SPD;www.faz.net;Andrea Nahles;703;-0.0782;-78
+SPD;www.faz.net;Barbara Hendricks;176;-0.1482;-148
+SPD;www.faz.net;Brigitte Zypries;203;-0.156;-156
+SPD;www.faz.net;Carsten Schneider;33;-0.1549;-154
+SPD;www.faz.net;Frank-Walter Steinmeier;623;-0.128;-128
+SPD;www.faz.net;Franziska Giffey;35;-0.1388;-138
+SPD;www.faz.net;Heiko Maas;519;-0.1348;-134
+SPD;www.faz.net;Hubertus Heil;97;-0.1185;-118
+SPD;www.faz.net;Johannes Kahrs;37;-0.1218;-121
+SPD;www.faz.net;Jusos;51;-0.1277;-127
+SPD;www.faz.net;Karl Lauterbach;39;-0.148;-148
+SPD;www.faz.net;Katarina Barley;177;-0.118;-117
+SPD;www.faz.net;Lars Klingbeil;73;-0.0637;-63
+SPD;www.faz.net;Malu Dreyer;146;-0.1394;-139
+SPD;www.faz.net;Manuela Schwesig;162;-0.102;-101
+SPD;www.faz.net;Martin Schulz;2306;-0.0836;-83
+SPD;www.faz.net;Michael Müller;79;-0.0716;-71
+SPD;www.faz.net;Natascha Kohnen;396;-0.0024;-2
+SPD;www.faz.net;Olaf Scholz;464;-0.0983;-98
+SPD;www.faz.net;Peer Steinbrück;92;-0.0806;-80
+SPD;www.faz.net;Ralf Stegner;184;-0.1373;-137
+SPD;www.faz.net;SPD;6383;-0.0805;-80
+SPD;www.faz.net;Sigmar Gabriel;1413;-0.1333;-133
+SPD;www.faz.net;Stephan Weil;132;-0.1414;-141
+SPD;www.faz.net;Thomas Oppermann;155;-0.0891;-89
+SPD;www.faz.net;Thorsten Schäfer-Gümbel;167;-0.0825;-82
+SPD;www.focus.de;Andrea Nahles;1669;-0.1369;-136
+SPD;www.focus.de;Barbara Hendricks;422;-0.084;-83
+SPD;www.focus.de;Brigitte Zypries;292;-0.0316;-31
+SPD;www.focus.de;Burkhard Lischka;48;-0.1498;-149
+SPD;www.focus.de;Carsten Schneider;51;-0.0375;-37
+SPD;www.focus.de;Carsten Sieling;82;-0.0245;-24
+SPD;www.focus.de;Dietmar Woidke;139;-0.0467;-46
+SPD;www.focus.de;Eva Högl;53;-0.1203;-120
+SPD;www.focus.de;Frank-Walter Steinmeier;1070;-0.1533;-153
+SPD;www.focus.de;Franziska Giffey;95;-0.1399;-139
+SPD;www.focus.de;Heiko Maas;1085;-0.2465;-246
+SPD;www.focus.de;Hilde Mattheis;34;-0.1145;-114
+SPD;www.focus.de;Hubertus Heil;211;-0.0957;-95
+SPD;www.focus.de;Johannes Kahrs;47;-0.1822;-182
+SPD;www.focus.de;Jusos;197;-0.1015;-101
+SPD;www.focus.de;Karl Lauterbach;60;-0.1464;-146
+SPD;www.focus.de;Katarina Barley;405;-0.1478;-147
+SPD;www.focus.de;Lars Klingbeil;234;-0.0534;-53
+SPD;www.focus.de;Malu Dreyer;592;-0.0934;-93
+SPD;www.focus.de;Manuela Schwesig;607;-0.0909;-90
+SPD;www.focus.de;Martin Schulz;4933;-0.1412;-141
+SPD;www.focus.de;Matthias Miersch;51;-0.0918;-91
+SPD;www.focus.de;Michael Müller;281;-0.0924;-92
+SPD;www.focus.de;Natascha Kohnen;197;-0.0502;-50
+SPD;www.focus.de;Olaf Scholz;1130;-0.1168;-116
+SPD;www.focus.de;Peer Steinbrück;98;-0.1262;-126
+SPD;www.focus.de;Peter Tschentscher;74;-0.0327;-32
+SPD;www.focus.de;Ralf Stegner;742;-0.1287;-128
+SPD;www.focus.de;SPD;10443;-0.1088;-108
+SPD;www.focus.de;Sigmar Gabriel;2054;-0.1668;-166
+SPD;www.focus.de;Stephan Weil;301;-0.0998;-99
+SPD;www.focus.de;Svenja Schulze;98;-0.0358;-35
+SPD;www.focus.de;Thomas Oppermann;308;-0.2011;-201
+SPD;www.focus.de;Thorsten Schäfer-Gümbel;267;-0.0767;-76
+SPD;www.fr.de;Andrea Nahles;607;-0.0685;-68
+SPD;www.fr.de;Andreas Schwarz;79;-0.1223;-122
+SPD;www.fr.de;Barbara Hendricks;213;-0.0913;-91
+SPD;www.fr.de;Brigitte Zypries;114;-0.105;-104
+SPD;www.fr.de;Frank-Walter Steinmeier;371;-0.1421;-142
+SPD;www.fr.de;Franziska Giffey;35;-0.069;-68
+SPD;www.fr.de;Heiko Maas;456;-0.2121;-212
+SPD;www.fr.de;Hubertus Heil;74;-0.0328;-32
+SPD;www.fr.de;Jusos;42;-0.0777;-77
+SPD;www.fr.de;Katarina Barley;177;-0.0935;-93
+SPD;www.fr.de;Lars Klingbeil;76;-0.0838;-83
+SPD;www.fr.de;Malu Dreyer;94;-0.0658;-65
+SPD;www.fr.de;Manuela Schwesig;136;-0.0833;-83
+SPD;www.fr.de;Martin Schulz;1894;-0.0968;-96
+SPD;www.fr.de;Olaf Scholz;426;-0.1216;-121
+SPD;www.fr.de;Ralf Stegner;104;-0.1064;-106
+SPD;www.fr.de;SPD;5183;-0.0883;-88
+SPD;www.fr.de;Sigmar Gabriel;1039;-0.1401;-140
+SPD;www.fr.de;Stephan Weil;133;-0.0646;-64
+SPD;www.fr.de;Thomas Oppermann;126;-0.1043;-104
+SPD;www.gruene.de;SPD;68;-0.2567;-256
+SPD;www.handelsblatt.de;Andrea Nahles;308;-0.0524;-52
+SPD;www.handelsblatt.de;Barbara Hendricks;96;-0.1032;-103
+SPD;www.handelsblatt.de;Brigitte Zypries;133;-0.0514;-51
+SPD;www.handelsblatt.de;Frank-Walter Steinmeier;196;-0.0804;-80
+SPD;www.handelsblatt.de;Heiko Maas;135;-0.2211;-221
+SPD;www.handelsblatt.de;Hubertus Heil;42;0.0126;12
+SPD;www.handelsblatt.de;Katarina Barley;158;-0.0239;-23
+SPD;www.handelsblatt.de;Lars Klingbeil;33;0.0;0
+SPD;www.handelsblatt.de;Manuela Schwesig;44;-0.053;-52
+SPD;www.handelsblatt.de;Martin Schulz;994;-0.0788;-78
+SPD;www.handelsblatt.de;Olaf Scholz;148;-0.1112;-111
+SPD;www.handelsblatt.de;SPD;2584;-0.0938;-93
+SPD;www.handelsblatt.de;Sigmar Gabriel;608;-0.1049;-104
+SPD;www.handelsblatt.de;Stephan Weil;53;-0.0733;-73
+SPD;www.handelsblatt.de;Thomas Oppermann;71;-0.1405;-140
+SPD;www.huffingtonpost.de;Andrea Nahles;333;-0.0818;-81
+SPD;www.huffingtonpost.de;Barbara Hendricks;94;-0.0928;-92
+SPD;www.huffingtonpost.de;Brigitte Zypries;80;-0.105;-104
+SPD;www.huffingtonpost.de;Frank-Walter Steinmeier;283;-0.0855;-85
+SPD;www.huffingtonpost.de;Heiko Maas;267;-0.159;-158
+SPD;www.huffingtonpost.de;Hubertus Heil;49;-0.0199;-19
+SPD;www.huffingtonpost.de;Jusos;53;0.0102;10
+SPD;www.huffingtonpost.de;Katarina Barley;130;-0.1133;-113
+SPD;www.huffingtonpost.de;Lars Klingbeil;34;-0.0755;-75
+SPD;www.huffingtonpost.de;Malu Dreyer;62;-0.0754;-75
+SPD;www.huffingtonpost.de;Manuela Schwesig;112;-0.0601;-60
+SPD;www.huffingtonpost.de;Martin Schulz;2098;-0.0976;-97
+SPD;www.huffingtonpost.de;Michael Müller;38;-0.1144;-114
+SPD;www.huffingtonpost.de;Olaf Scholz;186;-0.1393;-139
+SPD;www.huffingtonpost.de;Peer Steinbrück;35;-0.0787;-78
+SPD;www.huffingtonpost.de;Ralf Stegner;243;-0.1352;-135
+SPD;www.huffingtonpost.de;SPD;3301;-0.1032;-103
+SPD;www.huffingtonpost.de;Sigmar Gabriel;827;-0.1507;-150
+SPD;www.huffingtonpost.de;Stephan Weil;43;-0.1698;-169
+SPD;www.huffingtonpost.de;Thomas Oppermann;145;-0.1236;-123
+SPD;www.huffingtonpost.de;Thorsten Schäfer-Gümbel;54;-0.1034;-103
+SPD;www.jungefreiheit.de;Frank-Walter Steinmeier;50;-0.2145;-214
+SPD;www.jungefreiheit.de;Heiko Maas;164;-0.3107;-310
+SPD;www.jungefreiheit.de;Katarina Barley;44;-0.1541;-154
+SPD;www.jungefreiheit.de;Manuela Schwesig;36;-0.1231;-123
+SPD;www.jungefreiheit.de;Martin Schulz;175;-0.1101;-110
+SPD;www.jungefreiheit.de;Ralf Stegner;54;-0.1796;-179
+SPD;www.jungefreiheit.de;SPD;727;-0.1783;-178
+SPD;www.jungefreiheit.de;Sigmar Gabriel;123;-0.1546;-154
+SPD;www.jungewelt.de;Andrea Nahles;98;-0.0488;-48
+SPD;www.jungewelt.de;Barbara Hendricks;36;-0.0735;-73
+SPD;www.jungewelt.de;Frank-Walter Steinmeier;56;-0.1481;-148
+SPD;www.jungewelt.de;Heiko Maas;65;-0.1191;-119
+SPD;www.jungewelt.de;Martin Schulz;237;-0.0666;-66
+SPD;www.jungewelt.de;Olaf Scholz;95;-0.1826;-182
+SPD;www.jungewelt.de;SPD;1097;-0.1104;-110
+SPD;www.jungewelt.de;Sigmar Gabriel;174;-0.0786;-78
+SPD;www.n-tv.de;Andrea Nahles;649;-0.1095;-109
+SPD;www.n-tv.de;Barbara Hendricks;187;-0.1091;-109
+SPD;www.n-tv.de;Brigitte Zypries;132;-0.0998;-99
+SPD;www.n-tv.de;Burkhard Lischka;34;-0.2272;-227
+SPD;www.n-tv.de;Frank-Walter Steinmeier;478;-0.1664;-166
+SPD;www.n-tv.de;Heiko Maas;358;-0.2612;-261
+SPD;www.n-tv.de;Hubertus Heil;71;-0.1758;-175
+SPD;www.n-tv.de;Johannes Kahrs;32;-0.195;-195
+SPD;www.n-tv.de;Jusos;51;-0.1258;-125
+SPD;www.n-tv.de;Katarina Barley;196;-0.1711;-171
+SPD;www.n-tv.de;Lars Klingbeil;153;-0.1069;-106
+SPD;www.n-tv.de;Malu Dreyer;127;-0.0964;-96
+SPD;www.n-tv.de;Manuela Schwesig;201;-0.0931;-93
+SPD;www.n-tv.de;Martin Schulz;2172;-0.1412;-141
+SPD;www.n-tv.de;Michael Müller;58;-0.0639;-63
+SPD;www.n-tv.de;Olaf Scholz;370;-0.1373;-137
+SPD;www.n-tv.de;Peer Steinbrück;55;-0.2345;-234
+SPD;www.n-tv.de;Ralf Stegner;159;-0.0863;-86
+SPD;www.n-tv.de;SPD;3477;-0.1419;-141
+SPD;www.n-tv.de;Sigmar Gabriel;1069;-0.171;-171
+SPD;www.n-tv.de;Stephan Weil;109;-0.0752;-75
+SPD;www.n-tv.de;Thomas Oppermann;150;-0.1699;-169
+SPD;www.n-tv.de;Thorsten Schäfer-Gümbel;69;-0.0648;-64
+SPD;www.neues-deutschland.de;Andrea Nahles;331;-0.0809;-80
+SPD;www.neues-deutschland.de;Barbara Hendricks;116;-0.0939;-93
+SPD;www.neues-deutschland.de;Brigitte Zypries;74;-0.1099;-109
+SPD;www.neues-deutschland.de;Dietmar Woidke;141;-0.063;-62
+SPD;www.neues-deutschland.de;Eva Högl;47;-0.0757;-75
+SPD;www.neues-deutschland.de;Frank-Walter Steinmeier;296;-0.1331;-133
+SPD;www.neues-deutschland.de;Franziska Giffey;35;-0.0875;-87
+SPD;www.neues-deutschland.de;Heiko Maas;216;-0.221;-221
+SPD;www.neues-deutschland.de;Hilde Mattheis;38;-0.1957;-195
+SPD;www.neues-deutschland.de;Hubertus Heil;72;-0.0732;-73
+SPD;www.neues-deutschland.de;Jungsozialisten;48;-0.0897;-89
+SPD;www.neues-deutschland.de;Jusos;91;-0.0808;-80
+SPD;www.neues-deutschland.de;Katarina Barley;110;-0.1389;-138
+SPD;www.neues-deutschland.de;Lars Klingbeil;35;-0.0365;-36
+SPD;www.neues-deutschland.de;Malu Dreyer;53;-0.0648;-64
+SPD;www.neues-deutschland.de;Manuela Schwesig;160;-0.0357;-35
+SPD;www.neues-deutschland.de;Martin Schulz;950;-0.1131;-113
+SPD;www.neues-deutschland.de;Michael Müller;183;-0.0896;-89
+SPD;www.neues-deutschland.de;Natascha Kohnen;34;-0.0867;-86
+SPD;www.neues-deutschland.de;Olaf Scholz;246;-0.093;-92
+SPD;www.neues-deutschland.de;Peer Steinbrück;52;-0.0952;-95
+SPD;www.neues-deutschland.de;Ralf Stegner;122;-0.1114;-111
+SPD;www.neues-deutschland.de;SPD;5277;-0.0873;-87
+SPD;www.neues-deutschland.de;Sigmar Gabriel;658;-0.1344;-134
+SPD;www.neues-deutschland.de;Stephan Weil;78;-0.1698;-169
+SPD;www.neues-deutschland.de;Thomas Oppermann;98;-0.0886;-88
+SPD;www.neues-deutschland.de;Thorsten Schäfer-Gümbel;40;-0.0612;-61
+SPD;www.spiegel.de;Andrea Nahles;1267;-0.1142;-114
+SPD;www.spiegel.de;Barbara Hendricks;257;-0.0721;-72
+SPD;www.spiegel.de;Brigitte Zypries;149;-0.126;-126
+SPD;www.spiegel.de;Carsten Schneider;42;-0.136;-136
+SPD;www.spiegel.de;Frank-Walter Steinmeier;754;-0.1532;-153
+SPD;www.spiegel.de;Franziska Giffey;39;-0.0659;-65
+SPD;www.spiegel.de;Heiko Maas;812;-0.2655;-265
+SPD;www.spiegel.de;Hubertus Heil;100;-0.0687;-68
+SPD;www.spiegel.de;Johannes Kahrs;37;-0.1173;-117
+SPD;www.spiegel.de;Jusos;115;-0.1719;-171
+SPD;www.spiegel.de;Karl Lauterbach;52;-0.1511;-151
+SPD;www.spiegel.de;Katarina Barley;250;-0.1937;-193
+SPD;www.spiegel.de;Lars Klingbeil;118;-0.0746;-74
+SPD;www.spiegel.de;Malu Dreyer;169;-0.1301;-130
+SPD;www.spiegel.de;Manuela Schwesig;303;-0.1382;-138
+SPD;www.spiegel.de;Martin Schulz;3867;-0.1312;-131
+SPD;www.spiegel.de;Matthias Miersch;37;-0.1869;-186
+SPD;www.spiegel.de;Michael Müller;102;-0.1887;-188
+SPD;www.spiegel.de;Olaf Scholz;839;-0.1463;-146
+SPD;www.spiegel.de;Peer Steinbrück;89;-0.2553;-255
+SPD;www.spiegel.de;Ralf Stegner;356;-0.1941;-194
+SPD;www.spiegel.de;SPD;5750;-0.1263;-126
+SPD;www.spiegel.de;Sigmar Gabriel;1996;-0.1631;-163
+SPD;www.spiegel.de;Stephan Weil;158;-0.1213;-121
+SPD;www.spiegel.de;Thomas Oppermann;218;-0.224;-224
+SPD;www.spiegel.de;Thorsten Schäfer-Gümbel;69;-0.1009;-100
+SPD;www.stern.de;Andrea Nahles;209;-0.0356;-35
+SPD;www.stern.de;Barbara Hendricks;58;-0.0417;-41
+SPD;www.stern.de;Frank-Walter Steinmeier;283;-0.0778;-77
+SPD;www.stern.de;Heiko Maas;209;-0.2061;-206
+SPD;www.stern.de;Katarina Barley;68;-0.1343;-134
+SPD;www.stern.de;Lars Klingbeil;40;-0.003;-3
+SPD;www.stern.de;Malu Dreyer;46;-0.061;-60
+SPD;www.stern.de;Manuela Schwesig;48;-0.0822;-82
+SPD;www.stern.de;Martin Schulz;760;-0.084;-84
+SPD;www.stern.de;Olaf Scholz;130;-0.0825;-82
+SPD;www.stern.de;Peer Steinbrück;34;-0.0548;-54
+SPD;www.stern.de;Ralf Stegner;65;-0.1498;-149
+SPD;www.stern.de;SPD;1470;-0.0905;-90
+SPD;www.stern.de;Sigmar Gabriel;396;-0.1082;-108
+SPD;www.stern.de;Thomas Oppermann;45;-0.0499;-49
+SPD;www.sueddeutsche.de;Andrea Nahles;719;-0.0549;-54
+SPD;www.sueddeutsche.de;Barbara Hendricks;374;-0.0688;-68
+SPD;www.sueddeutsche.de;Brigitte Zypries;200;-0.0802;-80
+SPD;www.sueddeutsche.de;Carsten Schneider;51;-0.1006;-100
+SPD;www.sueddeutsche.de;Carsten Sieling;38;-0.055;-55
+SPD;www.sueddeutsche.de;Dietmar Woidke;189;-0.0732;-73
+SPD;www.sueddeutsche.de;Eva Högl;37;-0.0837;-83
+SPD;www.sueddeutsche.de;Florian Pronold;42;0.0165;16
+SPD;www.sueddeutsche.de;Frank-Walter Steinmeier;612;-0.0824;-82
+SPD;www.sueddeutsche.de;Franziska Giffey;50;-0.1008;-100
+SPD;www.sueddeutsche.de;Heiko Maas;407;-0.113;-113
+SPD;www.sueddeutsche.de;Hubertus Heil;132;-0.0411;-41
+SPD;www.sueddeutsche.de;Jusos;132;-0.0096;-9
+SPD;www.sueddeutsche.de;Katarina Barley;259;-0.0707;-70
+SPD;www.sueddeutsche.de;Lars Klingbeil;129;-0.0332;-33
+SPD;www.sueddeutsche.de;Malu Dreyer;342;-0.0523;-52
+SPD;www.sueddeutsche.de;Manuela Schwesig;316;-0.0333;-33
+SPD;www.sueddeutsche.de;Martin Schulz;2455;-0.0581;-58
+SPD;www.sueddeutsche.de;Michael Müller;305;-0.0737;-73
+SPD;www.sueddeutsche.de;Natascha Kohnen;259;-0.0497;-49
+SPD;www.sueddeutsche.de;Olaf Scholz;579;-0.0581;-58
+SPD;www.sueddeutsche.de;Peter Tschentscher;42;-0.0232;-23
+SPD;www.sueddeutsche.de;Ralf Stegner;266;-0.0536;-53
+SPD;www.sueddeutsche.de;SPD;7158;-0.0496;-49
+SPD;www.sueddeutsche.de;Sigmar Gabriel;1098;-0.0922;-92
+SPD;www.sueddeutsche.de;Stephan Weil;245;-0.0275;-27
+SPD;www.sueddeutsche.de;Svenja Schulze;40;-0.0853;-85
+SPD;www.sueddeutsche.de;Thomas Oppermann;127;-0.1139;-113
+SPD;www.sueddeutsche.de;Thorsten Schäfer-Gümbel;169;-0.0222;-22
+SPD;www.tagesschau.de;Andrea Nahles;406;-0.0385;-38
+SPD;www.tagesschau.de;Barbara Hendricks;118;-0.0698;-69
+SPD;www.tagesschau.de;Frank-Walter Steinmeier;224;-0.1268;-126
+SPD;www.tagesschau.de;Heiko Maas;300;-0.157;-157
+SPD;www.tagesschau.de;Hubertus Heil;149;-0.0082;-8
+SPD;www.tagesschau.de;Jusos;32;-0.1283;-128
+SPD;www.tagesschau.de;Katarina Barley;87;-0.072;-72
+SPD;www.tagesschau.de;Lars Klingbeil;106;-0.0191;-19
+SPD;www.tagesschau.de;Malu Dreyer;59;0.0645;64
+SPD;www.tagesschau.de;Manuela Schwesig;72;0.0202;20
+SPD;www.tagesschau.de;Martin Schulz;722;-0.0603;-60
+SPD;www.tagesschau.de;Olaf Scholz;166;-0.0409;-40
+SPD;www.tagesschau.de;Ralf Stegner;80;-0.0463;-46
+SPD;www.tagesschau.de;SPD;1350;-0.0547;-54
+SPD;www.tagesschau.de;Sigmar Gabriel;310;-0.0967;-96
+SPD;www.tagesschau.de;Thomas Oppermann;57;-0.1339;-133
+SPD;www.tagesschau.de;Thorsten Schäfer-Gümbel;34;-0.0465;-46
+SPD;www.tagesspiegel.de;Andrea Nahles;467;-0.0445;-44
+SPD;www.tagesspiegel.de;Barbara Hendricks;160;-0.0579;-57
+SPD;www.tagesspiegel.de;Brigitte Zypries;120;0.0055;5
+SPD;www.tagesspiegel.de;Carsten Schneider;45;-0.1006;-100
+SPD;www.tagesspiegel.de;Dietmar Woidke;113;-0.0635;-63
+SPD;www.tagesspiegel.de;Eva Högl;93;-0.0525;-52
+SPD;www.tagesspiegel.de;Frank-Walter Steinmeier;502;-0.0998;-99
+SPD;www.tagesspiegel.de;Franziska Giffey;113;-0.0047;-4
+SPD;www.tagesspiegel.de;Heiko Maas;347;-0.2065;-206
+SPD;www.tagesspiegel.de;Hubertus Heil;89;-0.0168;-16
+SPD;www.tagesspiegel.de;Jusos;39;-0.007;-7
+SPD;www.tagesspiegel.de;Katarina Barley;141;-0.109;-109
+SPD;www.tagesspiegel.de;Lars Klingbeil;73;-0.0895;-89
+SPD;www.tagesspiegel.de;Malu Dreyer;87;-0.0046;-4
+SPD;www.tagesspiegel.de;Manuela Schwesig;167;-0.0706;-70
+SPD;www.tagesspiegel.de;Martin Schulz;1865;-0.0711;-71
+SPD;www.tagesspiegel.de;Michael Müller;593;-0.0615;-61
+SPD;www.tagesspiegel.de;Olaf Scholz;336;-0.0835;-83
+SPD;www.tagesspiegel.de;Peer Steinbrück;40;-0.0874;-87
+SPD;www.tagesspiegel.de;Ralf Stegner;127;-0.1353;-135
+SPD;www.tagesspiegel.de;SPD;4382;-0.078;-77
+SPD;www.tagesspiegel.de;Sigmar Gabriel;1157;-0.099;-98
+SPD;www.tagesspiegel.de;Stephan Weil;96;-0.0737;-73
+SPD;www.tagesspiegel.de;Thomas Oppermann;157;-0.1124;-112
+SPD;www.tagesspiegel.de;Thorsten Schäfer-Gümbel;55;0.0153;15
+SPD;www.taz.de;Andrea Nahles;507;-0.0838;-83
+SPD;www.taz.de;Barbara Hendricks;213;-0.0302;-30
+SPD;www.taz.de;Brigitte Zypries;102;-0.0479;-47
+SPD;www.taz.de;Carsten Schneider;34;-0.0824;-82
+SPD;www.taz.de;Carsten Sieling;70;-0.0621;-62
+SPD;www.taz.de;Eva Högl;57;-0.0773;-77
+SPD;www.taz.de;Frank-Walter Steinmeier;476;-0.1562;-156
+SPD;www.taz.de;Franziska Giffey;63;-0.0529;-52
+SPD;www.taz.de;Heiko Maas;363;-0.1873;-187
+SPD;www.taz.de;Hubertus Heil;64;-0.0954;-95
+SPD;www.taz.de;Johannes Kahrs;37;-0.1041;-104
+SPD;www.taz.de;Jungsozialisten;32;-0.1443;-144
+SPD;www.taz.de;Jusos;90;-0.0755;-75
+SPD;www.taz.de;Karl Lauterbach;35;-0.1073;-107
+SPD;www.taz.de;Katarina Barley;115;-0.0554;-55
+SPD;www.taz.de;Lars Klingbeil;52;-0.0268;-26
+SPD;www.taz.de;Malu Dreyer;65;-0.0801;-80
+SPD;www.taz.de;Manuela Schwesig;185;-0.1202;-120
+SPD;www.taz.de;Martin Schulz;1527;-0.0928;-92
+SPD;www.taz.de;Michael Müller;240;-0.0781;-78
+SPD;www.taz.de;Olaf Scholz;497;-0.1282;-128
+SPD;www.taz.de;Peer Steinbrück;120;-0.1474;-147
+SPD;www.taz.de;Ralf Stegner;183;-0.1238;-123
+SPD;www.taz.de;SPD;4935;-0.0979;-97
+SPD;www.taz.de;Sigmar Gabriel;975;-0.1185;-118
+SPD;www.taz.de;Stephan Weil;101;-0.1244;-124
+SPD;www.taz.de;Thomas Oppermann;125;-0.1323;-132
+SPD;www.taz.de;Thorsten Schäfer-Gümbel;50;-0.1039;-103
+SPD;www.unsere-zeit.de;Martin Schulz;134;-0.0424;-42
+SPD;www.unsere-zeit.de;SPD;272;-0.132;-131
+SPD;www.unsere-zeit.de;Sigmar Gabriel;70;-0.1579;-157
+SPD;www.vorwaerts.de;Andrea Nahles;267;-0.035;-34
+SPD;www.vorwaerts.de;Frank-Walter Steinmeier;76;-0.0075;-7
+SPD;www.vorwaerts.de;Heiko Maas;103;-0.1381;-138
+SPD;www.vorwaerts.de;Hubertus Heil;59;-0.0232;-23
+SPD;www.vorwaerts.de;Jusos;47;0.0114;11
+SPD;www.vorwaerts.de;Katarina Barley;105;-0.0756;-75
+SPD;www.vorwaerts.de;Lars Klingbeil;80;-0.0258;-25
+SPD;www.vorwaerts.de;Malu Dreyer;60;-0.0158;-15
+SPD;www.vorwaerts.de;Manuela Schwesig;102;0.0045;4
+SPD;www.vorwaerts.de;Martin Schulz;834;-0.0323;-32
+SPD;www.vorwaerts.de;Olaf Scholz;77;-0.045;-44
+SPD;www.vorwaerts.de;Ralf Stegner;84;-0.1045;-104
+SPD;www.vorwaerts.de;SPD;1739;-0.0379;-37
+SPD;www.vorwaerts.de;Sigmar Gabriel;259;-0.0508;-50
+SPD;www.vorwaerts.de;Thomas Oppermann;78;-0.1145;-114
+SPD;www.vorwaerts.de;Thorsten Schäfer-Gümbel;99;0.0195;19
+SPD;www.welt.de;Andrea Nahles;1480;-0.0643;-64
+SPD;www.welt.de;Barbara Hendricks;499;-0.0664;-66
+SPD;www.welt.de;Brigitte Zypries;375;-0.0648;-64
+SPD;www.welt.de;Burkhard Lischka;76;-0.1299;-129
+SPD;www.welt.de;Carsten Schneider;78;-0.107;-107
+SPD;www.welt.de;Carsten Sieling;73;-0.0571;-57
+SPD;www.welt.de;Dietmar Woidke;163;-0.0888;-88
+SPD;www.welt.de;Eva Högl;60;-0.1215;-121
+SPD;www.welt.de;Frank-Walter Steinmeier;1086;-0.1055;-105
+SPD;www.welt.de;Franziska Giffey;101;-0.1244;-124
+SPD;www.welt.de;Heiko Maas;952;-0.2404;-240
+SPD;www.welt.de;Hilde Mattheis;43;-0.0657;-65
+SPD;www.welt.de;Hubertus Heil;250;-0.0808;-80
+SPD;www.welt.de;Johannes Kahrs;74;-0.2254;-225
+SPD;www.welt.de;Jungsozialisten;42;-0.099;-98
+SPD;www.welt.de;Jusos;195;-0.0815;-81
+SPD;www.welt.de;Karl Lauterbach;71;-0.172;-171
+SPD;www.welt.de;Katarina Barley;557;-0.091;-90
+SPD;www.welt.de;Lars Klingbeil;317;-0.0516;-51
+SPD;www.welt.de;Malu Dreyer;659;-0.0688;-68
+SPD;www.welt.de;Manuela Schwesig;645;-0.0504;-50
+SPD;www.welt.de;Martin Schulz;4866;-0.0943;-94
+SPD;www.welt.de;Matthias Miersch;48;-0.12;-119
+SPD;www.welt.de;Michael Müller;324;-0.0846;-84
+SPD;www.welt.de;Michael Roth;36;-0.0865;-86
+SPD;www.welt.de;Natascha Kohnen;212;-0.0067;-6
+SPD;www.welt.de;Niels Annen;36;-0.1868;-186
+SPD;www.welt.de;Olaf Scholz;1441;-0.0765;-76
+SPD;www.welt.de;Peer Steinbrück;85;-0.119;-119
+SPD;www.welt.de;Peter Tschentscher;120;-0.0103;-10
+SPD;www.welt.de;Ralf Stegner;778;-0.1558;-155
+SPD;www.welt.de;SPD;11109;-0.0926;-92
+SPD;www.welt.de;Sigmar Gabriel;2175;-0.1235;-123
+SPD;www.welt.de;Stephan Weil;446;-0.1032;-103
+SPD;www.welt.de;Svenja Schulze;51;-0.0603;-60
+SPD;www.welt.de;Thomas Oppermann;349;-0.1336;-133
+SPD;www.welt.de;Thorsten Schäfer-Gümbel;276;-0.0776;-77
+SPD;www.zeit.de;Andrea Nahles;1019;-0.0775;-77
+SPD;www.zeit.de;Aydan Özoğuz;39;-0.2368;-236
+SPD;www.zeit.de;Barbara Hendricks;350;-0.0578;-57
+SPD;www.zeit.de;Brigitte Zypries;237;-0.0716;-71
+SPD;www.zeit.de;Burkhard Lischka;36;-0.2351;-235
+SPD;www.zeit.de;Carsten Schneider;44;-0.1067;-106
+SPD;www.zeit.de;Dietmar Woidke;32;-0.1229;-122
+SPD;www.zeit.de;Eva Högl;41;-0.1526;-152
+SPD;www.zeit.de;Frank-Walter Steinmeier;632;-0.1262;-126
+SPD;www.zeit.de;Franziska Giffey;67;-0.1638;-163
+SPD;www.zeit.de;Heiko Maas;764;-0.1755;-175
+SPD;www.zeit.de;Hubertus Heil;166;-0.0852;-85
+SPD;www.zeit.de;Johannes Kahrs;40;-0.2015;-201
+SPD;www.zeit.de;Jusos;95;-0.1341;-134
+SPD;www.zeit.de;Karl Lauterbach;40;-0.1196;-119
+SPD;www.zeit.de;Katarina Barley;414;-0.1052;-105
+SPD;www.zeit.de;Lars Klingbeil;164;-0.0731;-73
+SPD;www.zeit.de;Malu Dreyer;231;-0.1134;-113
+SPD;www.zeit.de;Manuela Schwesig;346;-0.1099;-109
+SPD;www.zeit.de;Martin Schulz;2825;-0.0987;-98
+SPD;www.zeit.de;Matthias Miersch;38;-0.0655;-65
+SPD;www.zeit.de;Michael Müller;129;-0.0868;-86
+SPD;www.zeit.de;Natascha Kohnen;71;-0.0939;-93
+SPD;www.zeit.de;Olaf Scholz;768;-0.0864;-86
+SPD;www.zeit.de;Peer Steinbrück;76;-0.224;-223
+SPD;www.zeit.de;Ralf Stegner;282;-0.0567;-56
+SPD;www.zeit.de;SPD;5921;-0.0935;-93
+SPD;www.zeit.de;Sigmar Gabriel;1484;-0.149;-149
+SPD;www.zeit.de;Stephan Weil;183;-0.0646;-64
+SPD;www.zeit.de;Svenja Schulze;39;-0.08;-79
+SPD;www.zeit.de;Thomas Oppermann;201;-0.1408;-140
+SPD;www.zeit.de;Thorsten Schäfer-Gümbel;95;-0.1405;-140
+fraktionslos;www.afdkompakt.de;Frauke Petry;34;-0.1173;-117
+fraktionslos;www.bild.de;Frauke Petry;493;-0.1239;-123
+fraktionslos;www.faz.net;Erika Steinbach;37;-0.0635;-63
+fraktionslos;www.faz.net;Frauke Petry;406;-0.1126;-112
+fraktionslos;www.focus.de;Erika Steinbach;73;-0.1943;-194
+fraktionslos;www.focus.de;Frauke Petry;932;-0.2246;-224
+fraktionslos;www.fr.de;Erika Steinbach;43;-0.1419;-141
+fraktionslos;www.fr.de;Frauke Petry;395;-0.1332;-133
+fraktionslos;www.handelsblatt.de;Frauke Petry;172;-0.1767;-176
+fraktionslos;www.huffingtonpost.de;Erika Steinbach;53;-0.1344;-134
+fraktionslos;www.huffingtonpost.de;Frauke Petry;384;-0.1723;-172
+fraktionslos;www.jungefreiheit.de;Frauke Petry;117;-0.2484;-248
+fraktionslos;www.jungewelt.de;Frauke Petry;53;-0.0933;-93
+fraktionslos;www.n-tv.de;Frauke Petry;592;-0.1112;-111
+fraktionslos;www.neues-deutschland.de;Erika Steinbach;36;-0.063;-62
+fraktionslos;www.neues-deutschland.de;Frauke Petry;224;-0.1372;-137
+fraktionslos;www.spiegel.de;Erika Steinbach;40;-0.1786;-178
+fraktionslos;www.spiegel.de;Frauke Petry;576;-0.1674;-167
+fraktionslos;www.stern.de;Frauke Petry;218;-0.1496;-149
+fraktionslos;www.sueddeutsche.de;Frauke Petry;361;-0.0921;-92
+fraktionslos;www.tagesschau.de;Frauke Petry;123;-0.1437;-143
+fraktionslos;www.tagesspiegel.de;Frauke Petry;327;-0.135;-135
+fraktionslos;www.taz.de;Frauke Petry;269;-0.1558;-155
+fraktionslos;www.vorwaerts.de;Frauke Petry;66;-0.1603;-160
+fraktionslos;www.welt.de;Erika Steinbach;64;-0.1363;-136
+fraktionslos;www.welt.de;Frauke Petry;773;-0.1703;-170
+fraktionslos;www.zeit.de;Erika Steinbach;31;-0.1242;-124
+fraktionslos;www.zeit.de;Frauke Petry;499;-0.1213;-121
