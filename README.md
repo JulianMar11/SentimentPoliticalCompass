@@ -15,7 +15,7 @@ a data-driven framework to analyze newspapers with respect to their political co
 In order to explore the data and the code for creating the plots, we provide you with a [jupyter notebook](https://github.com/JulianMar11/SentimentPoliticalCompass/blob/master/Code/analysis.ipynb). If you just want to see charts, please refer to folder [Charts](https://github.com/JulianMar11/SentimentPoliticalCompass/tree/master/Charts).
 
 ## Pipeline Exploration
-If you want to replicate a Sentiment Polical Compass for different newspapers, times or countries, please clone this repository and refer to the section Code.
+If you want to replicate a Sentiment Polical Compass for different newspapers, times or countries, please clone this repository and refer to the section [Code](https://github.com/JulianMar11/SentimentPoliticalCompass/tree/master/Code). All code was written in Python Version 3.6.4
 
 	git clone https://github.com/JulianMar11/SentimentPoliticalCompass
     cd SentimentPoliticalCompass/
