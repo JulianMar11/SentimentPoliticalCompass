@@ -4,7 +4,7 @@ Entity Sentiment Analysis of News Paper Articles
 General notes
 -------------
 
-* This work heaviliy uses the Polyglot library: http://polyglot.readthedocs.io/en/latest/index.html as well as research conducted by Chen, Yanqing and Skiena, Steven (Building sentiment lexicons for all major languages)and by Al-Rfou, Rami and Kulkarni, Vivek and Perozzi, Bryan and Skiena, Steven (Massive Multilingual Named Entity Recognition)
+* This work uses the Polyglot library: http://polyglot.readthedocs.io/en/latest/index.html as well as research conducted by Chen, Yanqing and Skiena, Steven (Building sentiment lexicons for all major languages)and by Al-Rfou, Rami and Kulkarni, Vivek and Perozzi, Bryan and Skiena, Steven (Massive Multilingual Named Entity Recognition)
 
 
 
