@@ -4,13 +4,14 @@ One answer to biased news and false information is transparancy and quantifiabli
 For this reason, we introduce the Sentiment Political Compass,
 a data-driven framework to analyze newspapers with respect to their political conviction.
 
-`@article{falcksentiment,
-  title={Sentiment Political Compass: A Data-driven Analysis
-  of Online Newspapers regarding Political Orientation},
-  author={Falck, Fabian and Marstaller, Julian and Stoehr,
-  Niklas and Maucher, S{\"o}ren and Ren, Jeana and Thalhammer, 
-  Andreas and Rettinger, Achim and Studer, Rudi}
-}`
+
+	@article{falcksentiment, 
+	title={Sentiment Political Compass: A Data-driven Analysis
+	of Online Newspapers regarding Political Orientation}, 
+	author={Falck, Fabian and Marstaller, Julian and Stoehr, Niklas and 
+	Maucher, S{\"o}ren and Ren, Jeana and Thalhammer, Andreas 
+	and Rettinger, Achim and Studer, Rudi}
+	}
 
 
 # Overview
