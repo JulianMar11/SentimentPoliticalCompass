@@ -7,10 +7,10 @@ a data-driven framework to analyze newspapers with respect to their political co
 
 	@article{falcksentiment, 
 	title={Sentiment Political Compass: A Data-driven Analysis
-	of Online Newspapers regarding Political Orientation}, 
+		of Online Newspapers regarding Political Orientation}, 
 	author={Falck, Fabian and Marstaller, Julian and Stoehr, Niklas and 
-	Maucher, S{\"o}ren and Ren, Jeana and Thalhammer, Andreas 
-	and Rettinger, Achim and Studer, Rudi}
+		Maucher, S{\"o}ren and Ren, Jeana and Thalhammer, Andreas 
+		and Rettinger, Achim and Studer, Rudi}
 	}
 
 
