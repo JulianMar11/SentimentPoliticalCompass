@@ -10,7 +10,9 @@ a data-driven framework to analyze newspapers with respect to their political co
 		       of Online Newspapers regarding Political Orientation}, 
 		author={Falck, Fabian and Marstaller, Julian and Stoehr, Niklas and 
 		       Maucher, S{\"o}ren and Ren, Jeana and Thalhammer, Andreas 
-		       and Rettinger, Achim and Studer, Rudi}
+		       and Rettinger, Achim and Studer, Rudi}, 
+		booktitle={The Internet, Policy & Politics Conference 2018}, 
+		year={2018}, 
 	}
 
 
