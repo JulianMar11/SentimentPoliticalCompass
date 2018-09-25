@@ -19,7 +19,7 @@ a data-driven framework to analyze newspapers with respect to their political co
 # Overview
 
 ## Links and Downloads
-+ [Homepage](http://politicalcompass.de/)
++ [www.politicalcompass.de](http://politicalcompass.de/)
 + [Dataset](http://politicalcompass.de/)
 + [Paper](http://blogs.oii.ox.ac.uk/policy/wp-content/uploads/sites/77/2018/08/IPP2018_Falck.pdf)
 
