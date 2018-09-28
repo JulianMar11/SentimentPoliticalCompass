@@ -18,10 +18,11 @@ a data-driven framework to analyze newspapers with respect to their political co
 
 # Overview
 
-## Links and Downloads
-+ [www.politicalcompass.de](http://politicalcompass.de/)
-+ [Dataset](http://politicalcompass.de/)
+## Resources
++ [Project website](http://politicalcompass.de/)
 + [Paper](http://blogs.oii.ox.ac.uk/policy/wp-content/uploads/sites/77/2018/08/IPP2018_Falck.pdf)
++ [Dataset](http://politicalcompass.de/)
+
 
 ## Data Exploration
 In order to explore the data and the code for creating the plots, we provide you with a [jupyter notebook](https://github.com/JulianMar11/SentimentPoliticalCompass/blob/master/Code/analysis.ipynb). If you just want to see charts, please refer to folder [Charts](https://github.com/JulianMar11/SentimentPoliticalCompass/tree/master/Charts).
